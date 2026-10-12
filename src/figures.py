@@ -85,6 +85,8 @@ def apply_style() -> None:
             "grid.linewidth": 0.9,
             "lines.linewidth": 3.0,
             "figure.autolayout": False,
+            # Fixed salt so SVG element IDs are identical on every rebuild.
+            "svg.hashsalt": "medicare-access-pipeline",
         }
     )
 
@@ -136,7 +138,9 @@ def _finish(fig: plt.Figure, ax: plt.Axes, title: str, subtitle: str,
     written: list[Path] = []
     for suffix in ("png", "svg"):
         path = target_dir / f"{stem}.{suffix}"
-        fig.savefig(path, dpi=DPI, format=suffix)
+        # No render timestamp, so a rebuild is byte-identical to the original.
+        metadata = {"Date": None} if suffix == "svg" else None
+        fig.savefig(path, dpi=DPI, format=suffix, metadata=metadata)
         written.append(path)
     plt.close(fig)
     LOGGER.info("wrote %s.png and %s.svg", stem, stem)
