@@ -1,0 +1,656 @@
+{
+ "Q1_bvna_any": {
+  "query": "basivertebral[Title/Abstract]",
+  "count": 211,
+  "records": [
+   {
+    "pmid": "42804299",
+    "date": "2026 Sep",
+    "journal": "Pain Physician",
+    "title": "Ambulatory Surgery Centers and Medicare Payment Policy for Calendar Year 2027: Impact on Interventional Pain Management."
+   },
+   {
+    "pmid": "42777337",
+    "date": "2026 Sep 18",
+    "journal": "Eur J Radiol",
+    "title": "A new perspective on modic type 1 changes in degenerative disc disease: a systematic evidence-based educational review."
+   },
+   {
+    "pmid": "42771027",
+    "date": "2026 Sep 22",
+    "journal": "Eur Spine J",
+    "title": "Anatomy of the basivertebral nerve and its implications in the vertebrogenic pain. Systematic review and mapping of evidence."
+   },
+   {
+    "pmid": "42765343",
+    "date": "2026 Sep 19",
+    "journal": "Pain Med",
+    "title": "Analysis of Complications Associated with Basivertebral Nerve Ablation for Vertebrogenic Low Back Pain: A Multicenter Retrospective Cohort Study of 1,145 Patients."
+   },
+   {
+    "pmid": "42757671",
+    "date": "2026 Sep",
+    "journal": "Vet Radiol Ultrasound",
+    "title": "Vertebral Vascular Canal Dysplasia in Three Brachycephalic Breeds and Its Relationship With BOAS Grade."
+   },
+   {
+    "pmid": "42729915",
+    "date": "2026 Sep",
+    "journal": "Interv Pain Med",
+    "title": "Durable pain relief following basivertebral nerve ablation in patients with prior lumbar decompression: A retrospective case series."
+   },
+   {
+    "pmid": "42679091",
+    "date": "2026 Aug",
+    "journal": "Pain Med Case Rep",
+    "title": "Combined Subchondral, Intradiscal and Peridiscal BMAC Injections for Advanced Degenerative Discs and Endplates with Modic Changes: Retrospective Pilot Case Series."
+   },
+   {
+    "pmid": "42679087",
+    "date": "2026 Aug",
+    "journal": "Pain Med Case Rep",
+    "title": "Subchondral Vertebral Body Bone Marrow-Derived Mesenchymal Stem Cells Injections Combined With Lumbar Disc Arthroplasty for Vertebrogenic and Discogenic Pain: A Novel Case Report."
+   },
+   {
+    "pmid": "42678490",
+    "date": "2026 Sep 1",
+    "journal": "Curr Pain Headache Rep",
+    "title": "The Sinuvertebral Nerve and Basivertebral Nerve: Analyzing the Central Role of the Vertebral-Disc Unit in Chronic Low Back Pain."
+   },
+   {
+    "pmid": "42582823",
+    "date": "2026 Jul 31",
+    "journal": "J Spine Surg",
+    "title": "L5-S1 basivertebral nerve ablation for chronic vertebrogenic low back pain following lumbar fusion: a case report."
+   },
+   {
+    "pmid": "42564997",
+    "date": "2026 Sep",
+    "journal": "Interv Pain Med",
+    "title": "Sustained pain relief across modic subtypes following basivertebral nerve ablation: A real-world study."
+   },
+   {
+    "pmid": "42550562",
+    "date": "2026 Jul",
+    "journal": "Pain Med Case Rep",
+    "title": "Basivertebral Nerve Radiofrequency Ablation for Vertebral Osteomyelitis: A Technical Report."
+   },
+   {
+    "pmid": "42473615",
+    "date": "2026 Sep",
+    "journal": "Interv Pain Med",
+    "title": "Adverse events associated with basivertebral nerve radiofrequency ablation: A comprehensive analysis from the MAUDE database."
+   },
+   {
+    "pmid": "42379692",
+    "date": "2026 Aug",
+    "journal": "Phys Med Rehabil Clin N Am",
+    "title": "The Cutting Edge: Interventional Strategies for Pain Management."
+   },
+   {
+    "pmid": "42374448",
+    "date": "2026 Jun 29",
+    "journal": "J Orthop Surg Res",
+    "title": "Extrapedicular approach for basivertebral nerve radiofrequency ablation: a conceptual review."
+   },
+   {
+    "pmid": "42351602",
+    "date": "2026 Jun 22",
+    "journal": "Diagnostics (Basel)",
+    "title": "Vertebrogenic Low Back Pain and Basivertebral Nerve Ablation: A Review of Mechanisms, Imaging-Driven Selection, and Clinical Outcomes."
+   },
+   {
+    "pmid": "42290902",
+    "date": "2026 Jun",
+    "journal": "Interv Pain Med",
+    "title": "Early pain-response trajectories after basivertebral nerve ablation and their relationship to 12-month clinical outcomes."
+   },
+   {
+    "pmid": "42285764",
+    "date": "2026 Jun 12",
+    "journal": "AJNR Am J Neuroradiol",
+    "title": "Mechanisms of Local CSF-Venous Fistula Persistence after Transvenous Embolization for Spontaneous Intracranial Hypotension."
+   },
+   {
+    "pmid": "42266214",
+    "date": "2026",
+    "journal": "Front Surg",
+    "title": "Pathophysiology, diagnosis, and management of discogenic low back pain: a phenotype-driven precision framework for surgical and interventional decision-making."
+   },
+   {
+    "pmid": "42216722",
+    "date": "2026 Jul",
+    "journal": "Vet Radiol Ultrasound",
+    "title": "Magnetic Resonance Imaging Features of Intravascular Osteosarcoma Affecting the Ventral Internal Vertebral Venous Plexus Causing Cervical Myelopathy in a Dog."
+   },
+   {
+    "pmid": "34283493",
+    "date": "2026 Jan",
+    "journal": "",
+    "title": "Basivertebral Nerve Ablation."
+   },
+   {
+    "pmid": "42015883",
+    "date": "2026 Sep 1",
+    "journal": "Pain Med",
+    "title": "Mixed-duration basivertebral nerve ablation for vertebrogenic low back pain: lesion strategies and clinical outcomes in a multicenter retrospective cohort study."
+   },
+   {
+    "pmid": "42005956",
+    "date": "2026 Jun",
+    "journal": "Interv Pain Med",
+    "title": "The utility of SPECT-CT in identifying vertebral endplate changes for basivertebral nerve ablation: A retrospective study with MRI comparison."
+   },
+   {
+    "pmid": "41980601",
+    "date": "2026 Jun",
+    "journal": "Semin Musculoskelet Radiol",
+    "title": "Controversies and Efficacy of Percutaneous Spinal Interventions."
+   },
+   {
+    "pmid": "41911690",
+    "date": "2026 Jun",
+    "journal": "Semin Musculoskelet Radiol",
+    "title": "Recent Advances and Immediate Future of Spinal Intervention."
+   },
+   {
+    "pmid": "41777429",
+    "date": "2026 Mar",
+    "journal": "Interv Pain Med",
+    "title": "Basivertebral nerve ablation provides comparable early pain relief in patients with psychiatric conditions: A real-world study."
+   },
+   {
+    "pmid": "41698821",
+    "date": "2026 Jun 3",
+    "journal": "AJNR Am J Neuroradiol",
+    "title": "Basivertebral Nerve Ablation: Part 2."
+   },
+   {
+    "pmid": "41698818",
+    "date": "2026 Jun 3",
+    "journal": "AJNR Am J Neuroradiol",
+    "title": "Basivertebral Nerve Ablation: Part 1."
+   },
+   {
+    "pmid": "41660720",
+    "date": "2026 Mar",
+    "journal": "Anat Histol Embryol",
+    "title": "Integrative Anatomical, Tomographic and Elemental Characterisation of the Axial Skeleton of the Patagonian Huemul (Hippocamelus bisulcus)."
+   },
+   {
+    "pmid": "41594216",
+    "date": "2026 Jan 12",
+    "journal": "Diagnostics (Basel)",
+    "title": "Subacute and Chronic Low-Back Pain: From MRI Phenotype to Imaging-Guided Interventions."
+   },
+   {
+    "pmid": "41569939",
+    "date": "2025 Dec 8",
+    "journal": "J Neurosurg Case Lessons",
+    "title": "Successful retrieval of a retained Jamshidi needle fragment from the L4 pedicle following elective basivertebral nerve ablation: illustrative case."
+   },
+   {
+    "pmid": "41543135",
+    "date": "2026 Apr 1",
+    "journal": "Spine (Phila Pa 1976)",
+    "title": "The Osteoporotic Vertebral Fracture Conservative Treatment Prognosis Score (OVF-CTPS): Development and Validation of a Prognostic Tool for Conservative Treatment of OVFs Based on a Prospective Cohort Study."
+   },
+   {
+    "pmid": "41521992",
+    "date": "2026 Jan 1",
+    "journal": "Quant Imaging Med Surg",
+    "title": "Risk factors for intravertebral cleft in acute vertebral fractures and its relationship with bone cement leakage after vertebroplasty."
+   },
+   {
+    "pmid": "41442043",
+    "date": "2026 Feb",
+    "journal": "Eur Spine J",
+    "title": "The establishment and validation of a risk appraisal model for cement leakage after percutaneous vertebral augmentation for osteoporotic vertebral compression fractures based on a meta-analysis."
+   },
+   {
+    "pmid": "41438936",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Evaluating the effectiveness of 7-min basivertebral nerve ablation in treating vertebrogenic low back pain."
+   },
+   {
+    "pmid": "41404267",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Subject: Letters to the editor: Re: rates of lumbar vertebral body compression fracture after basivertebral nerve ablation: A retrospective study utilizing a large national database."
+   },
+   {
+    "pmid": "41399736",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Timing and trajectory of pain and functional outcomes after basivertebral nerve ablation: a prospective cohort study."
+   },
+   {
+    "pmid": "41362791",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "FACTFINDERS for PATIENT SAFETY: Minimizing complications in radiofrequency neurotomy: Part I-Implantable devices; Part II-Preprocedural BVNRFN imaging."
+   },
+   {
+    "pmid": "41341121",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Rates of lumbar vertebral body compression fracture after basivertebral nerve ablation: A retrospective study utilizing a large national database."
+   },
+   {
+    "pmid": "41177782",
+    "date": "2026 Feb",
+    "journal": "Skeletal Radiol",
+    "title": "Modic changes and their role in vertebrogenic back pain: a literature review."
+   }
+  ]
+ },
+ "Q2_bvna_access": {
+  "query": "basivertebral[Title/Abstract] AND (Medicare OR utilization OR access OR disparities OR geographic OR trends OR \"real-world\")",
+  "count": 50,
+  "records": [
+   {
+    "pmid": "42804299",
+    "date": "2026 Sep",
+    "journal": "Pain Physician",
+    "title": "Ambulatory Surgery Centers and Medicare Payment Policy for Calendar Year 2027: Impact on Interventional Pain Management."
+   },
+   {
+    "pmid": "42765343",
+    "date": "2026 Sep 19",
+    "journal": "Pain Med",
+    "title": "Analysis of Complications Associated with Basivertebral Nerve Ablation for Vertebrogenic Low Back Pain: A Multicenter Retrospective Cohort Study of 1,145 Patients."
+   },
+   {
+    "pmid": "42757671",
+    "date": "2026 Sep",
+    "journal": "Vet Radiol Ultrasound",
+    "title": "Vertebral Vascular Canal Dysplasia in Three Brachycephalic Breeds and Its Relationship With BOAS Grade."
+   },
+   {
+    "pmid": "42564997",
+    "date": "2026 Sep",
+    "journal": "Interv Pain Med",
+    "title": "Sustained pain relief across modic subtypes following basivertebral nerve ablation: A real-world study."
+   },
+   {
+    "pmid": "42473615",
+    "date": "2026 Sep",
+    "journal": "Interv Pain Med",
+    "title": "Adverse events associated with basivertebral nerve radiofrequency ablation: A comprehensive analysis from the MAUDE database."
+   },
+   {
+    "pmid": "42374448",
+    "date": "2026 Jun 29",
+    "journal": "J Orthop Surg Res",
+    "title": "Extrapedicular approach for basivertebral nerve radiofrequency ablation: a conceptual review."
+   },
+   {
+    "pmid": "42351602",
+    "date": "2026 Jun 22",
+    "journal": "Diagnostics (Basel)",
+    "title": "Vertebrogenic Low Back Pain and Basivertebral Nerve Ablation: A Review of Mechanisms, Imaging-Driven Selection, and Clinical Outcomes."
+   },
+   {
+    "pmid": "42290902",
+    "date": "2026 Jun",
+    "journal": "Interv Pain Med",
+    "title": "Early pain-response trajectories after basivertebral nerve ablation and their relationship to 12-month clinical outcomes."
+   },
+   {
+    "pmid": "34283493",
+    "date": "2026 Jan",
+    "journal": "",
+    "title": "Basivertebral Nerve Ablation."
+   },
+   {
+    "pmid": "42005956",
+    "date": "2026 Jun",
+    "journal": "Interv Pain Med",
+    "title": "The utility of SPECT-CT in identifying vertebral endplate changes for basivertebral nerve ablation: A retrospective study with MRI comparison."
+   },
+   {
+    "pmid": "41911690",
+    "date": "2026 Jun",
+    "journal": "Semin Musculoskelet Radiol",
+    "title": "Recent Advances and Immediate Future of Spinal Intervention."
+   },
+   {
+    "pmid": "41777429",
+    "date": "2026 Mar",
+    "journal": "Interv Pain Med",
+    "title": "Basivertebral nerve ablation provides comparable early pain relief in patients with psychiatric conditions: A real-world study."
+   },
+   {
+    "pmid": "41404267",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Subject: Letters to the editor: Re: rates of lumbar vertebral body compression fracture after basivertebral nerve ablation: A retrospective study utilizing a large national database."
+   },
+   {
+    "pmid": "41399736",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Timing and trajectory of pain and functional outcomes after basivertebral nerve ablation: a prospective cohort study."
+   },
+   {
+    "pmid": "41341121",
+    "date": "2025 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Rates of lumbar vertebral body compression fracture after basivertebral nerve ablation: A retrospective study utilizing a large national database."
+   },
+   {
+    "pmid": "41146940",
+    "date": "2025 Dec",
+    "journal": "N Am Spine Soc J",
+    "title": "Patient selection, clinical outcomes, associated healthcare utilization, and cost-effectiveness of basivertebral nerve ablation for the treatment of vertebrogenic low back pain: A narrative review."
+   },
+   {
+    "pmid": "41134459",
+    "date": "2025 Dec",
+    "journal": "Pain Ther",
+    "title": "Synergistic Effects of Basivertebral Nerve Ablation Plus Schroth Therapy for Adult Scoliosis: A Multicenter Propensity-Matched Cohort Study."
+   },
+   {
+    "pmid": "40896550",
+    "date": "2025 Sep",
+    "journal": "Interv Pain Med",
+    "title": "Safety and effectiveness of basivertebral nerve ablation in patients with osteoporosis and osteopenia: A real-world study."
+   },
+   {
+    "pmid": "40891888",
+    "date": "2026 Mar 1",
+    "journal": "Pain Med",
+    "title": "The effectiveness of basivertebral nerve radiofrequency ablation for the treatment of vertebrogenic low back pain: 1-year results of a prospective real-world cohort study."
+   },
+   {
+    "pmid": "40656260",
+    "date": "2025 Jun",
+    "journal": "Cureus",
+    "title": "Basivertebral Nerve Ablation for Vertebrogenic Low Back Pain in an Elderly Patient With Multilevel Modic Changes: A Case Report."
+   },
+   {
+    "pmid": "40519794",
+    "date": "2025 Jun",
+    "journal": "Interv Pain Med",
+    "title": "Decrease in opioid use and spinal interventions after basivertebral nerve ablation."
+   },
+   {
+    "pmid": "40303516",
+    "date": "2025 Mar",
+    "journal": "Cureus",
+    "title": "Intraosseous Basivertebral Nerve Ablation in the Treatment of Vertebrogenic Back Pain Secondary to Advanced Osteopenia: A Case Report."
+   },
+   {
+    "pmid": "39927298",
+    "date": "2025 Mar",
+    "journal": "Interv Pain Med",
+    "title": "A staged approach to treating chronic low back and radicular pain: Basivertebral nerve ablation in conjunction with surgical decompression: A case report."
+   },
+   {
+    "pmid": "39758714",
+    "date": "2024 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Intraosseous basivertebral nerve ablation: A 5-year pooled analysis from three prospective clinical trials."
+   },
+   {
+    "pmid": "39686949",
+    "date": "2024 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Radiation exposure during basivertebral nerve radiofrequency ablations."
+   },
+   {
+    "pmid": "39655088",
+    "date": "2024 Dec",
+    "journal": "Interv Pain Med",
+    "title": "Prospective cohort study of basivertebral nerve ablation for chronic low back pain in a real-world setting: 12\u00a0months follow-up."
+   },
+   {
+    "pmid": "39332685",
+    "date": "2025 Feb",
+    "journal": "Spine J",
+    "title": "A cost-effectiveness analysis of intraosseous basivertebral nerve ablation for the treatment of chronic low back pain."
+   },
+   {
+    "pmid": "39301449",
+    "date": "2024",
+    "journal": "Med Devices (Auckl)",
+    "title": "Computed Tomographic Characterization for Basivertebral Nerve Ablation Utilizing a Radiofrequency Multitined Expandable Electrode."
+   },
+   {
+    "pmid": "38980601",
+    "date": "2024 Oct",
+    "journal": "Pain Ther",
+    "title": "Potential Cost Savings with 60-day Peripheral Nerve Stimulation Treatment in Chronic Axial Low Back Pain."
+   },
+   {
+    "pmid": "38978188",
+    "date": "2025 Jan 1",
+    "journal": "Int J Surg",
+    "title": "Risk factors for cement leakage after percutaneous vertebral augmentation for osteoporotic vertebral compression fractures: a meta-analysis."
+   },
+   {
+    "pmid": "38315225",
+    "date": "2024 Apr",
+    "journal": "Eur Spine J",
+    "title": "Analysis of adjacent vertebral fracture after percutaneous vertebroplasty: do radiological or surgical features matter?"
+   },
+   {
+    "pmid": "38078951",
+    "date": "2024 Mar",
+    "journal": "Arch Orthop Trauma Surg",
+    "title": "The incidence and risk factors for extensive epidural cement leakage in cement-augmented pedicle screw fixation: a multicenter retrospective study."
+   },
+   {
+    "pmid": "37922496",
+    "date": "2025 Mar",
+    "journal": "Global Spine J",
+    "title": "Interpretable Machine Learning Model to Predict Bone Cement Leakage in Percutaneous Vertebral Augmentation for Osteoporotic Vertebral Compression Fracture Based on SHapley Additive exPlanations."
+   },
+   {
+    "pmid": "37643639",
+    "date": "2024 Jan 4",
+    "journal": "Pain Med",
+    "title": "Low back pain-related healthcare utilization following intraosseous basivertebral nerve radiofrequency ablation: a pooled analysis from three prospective clinical trials."
+   },
+   {
+    "pmid": "37353769",
+    "date": "2023 Jun 23",
+    "journal": "BMC Musculoskelet Disord",
+    "title": "Correlation analysis between morphologic characteristics of the thoracolumbar basivertebral foramen and Kummell's disease in patients with osteoporosis using imaging techniques."
+   },
+   {
+    "pmid": "37034146",
+    "date": "2023 Apr",
+    "journal": "Cureus",
+    "title": "The Effectiveness of Intraosseous Basivertebral Nerve Ablation in the Treatment of Nonradiating Vertebrogenic Pain: A Systematic Review."
+   },
+   {
+    "pmid": "36926532",
+    "date": "2023 Jun",
+    "journal": "N Am Spine Soc J",
+    "title": "Basivertebral nerve ablation for the treatment of chronic low back pain in a community practice setting: 6 Months follow-up."
+   },
+   {
+    "pmid": "35793179",
+    "date": "2022 Jul",
+    "journal": "Pain Physician",
+    "title": "Basivertebral Nerve Ablation for the Treatment of Chronic Low Back Pain: A Scoping Review of the Literature."
+   },
+   {
+    "pmid": "35199424",
+    "date": "2022 May",
+    "journal": "Vet Radiol Ultrasound",
+    "title": "Vertebral vascular canal dysplasia in French and English Bulldogs: Clinical, CT, and MRI characteristics and prevalence."
+   },
+   {
+    "pmid": "34828599",
+    "date": "2021 Nov 15",
+    "journal": "Healthcare (Basel)",
+    "title": "Interventional Procedures for Vertebral Diseases: Spinal Tumor Ablation, Vertebral Augmentation, and Basivertebral Nerve Ablation-A Scoping Review."
+   }
+  ]
+ },
+ "Q3_bvna_codes": {
+  "query": "\"64628\" OR \"64629\" OR \"C9752\"",
+  "count": 23,
+  "records": [
+   {
+    "pmid": "42811620",
+    "date": "2026 Oct 14",
+    "journal": "ChemMedChem",
+    "title": "Hitting Coronaviruses Where It Hurts: Antiviral Strategies Targeting Viral Proteins."
+   },
+   {
+    "pmid": "42802304",
+    "date": "2026 Sep 28",
+    "journal": "ChemMedChem",
+    "title": "Beyond the Active Site: First-In-Class Leishmania Infantum Trypanothione Reductase Dimerization Disruptors as Antileishmanial Leads."
+   },
+   {
+    "pmid": "40880261",
+    "date": "2025 Aug",
+    "journal": "Int J Syst Evol Microbiol",
+    "title": "Variovorax arabinosiphilus sp. nov., Variovorax flavidus sp. nov., Variovorax gracilis sp. nov., Variovorax brevis sp. nov., Variovorax jilinensis sp. nov., Variovorax davisae sp. nov., Variovorax saccharolyticus sp. nov. and Variovorax fucosicus sp. nov., isolated from ginseng rhizosphere."
+   },
+   {
+    "pmid": "39552348",
+    "date": "2024 Nov 27",
+    "journal": "ACS Appl Mater Interfaces",
+    "title": "Designing Nano-Hemin for Ferroptosis-Mediated Cell Death via Enzymatic Hemin Digestion."
+   },
+   {
+    "pmid": "39546243",
+    "date": "2024 Dec",
+    "journal": "Environ Sci Pollut Res Int",
+    "title": "An interpretable (explainable) model based on machine learning and SHAP interpretation technique for mapping wind erosion hazard."
+   },
+   {
+    "pmid": "38139748",
+    "date": "2023 Dec 18",
+    "journal": "Sensors (Basel)",
+    "title": "Particle Tracking and Micromixing Performance Characterization with a Mobile Device."
+   },
+   {
+    "pmid": "36266051",
+    "date": "2022 Dec",
+    "journal": "Int J Spine Surg",
+    "title": "ISASS Policy Statement 2022: Literature Review of Intraosseous Basivertebral Nerve Ablation."
+   },
+   {
+    "pmid": "32932044",
+    "date": "2020 Nov",
+    "journal": "Biomed Pharmacother",
+    "title": "Triptolide-nanoliposome-APRPG, a novel sustained-release drug delivery system targeting vascular endothelial cells, enhances the inhibitory effects of triptolide on laser-induced choroidal neovascularization."
+   },
+   {
+    "pmid": "32888319",
+    "date": "2020 Nov",
+    "journal": "Br J Pharmacol",
+    "title": "Pseudoirreversible slow-binding inhibition of trypanothione reductase by a protein-protein interaction disruptor."
+   },
+   {
+    "pmid": "32135614",
+    "date": "2020 Feb 24",
+    "journal": "Zhonghua Xin Xue Guan Bing Za Zhi",
+    "title": "[Prognostic value of Montreal Cognitive Assessment in heart failure patients]."
+   },
+   {
+    "pmid": "31766444",
+    "date": "2019 Nov 21",
+    "journal": "Molecules",
+    "title": "Design and Synthesis of New 6-Nitro and 6-Amino-3,3a,4,5-Tetrahydro-2H-Benzo[g]indazole Derivatives: Antiproliferative and Antibacterial Activity."
+   },
+   {
+    "pmid": "31673819",
+    "date": "2019 Dec",
+    "journal": "Hum Genet",
+    "title": "Differential phenotypic expression of a novel PDHA1 mutation in a female monozygotic twin pair."
+   },
+   {
+    "pmid": "31264760",
+    "date": "2019 Dec 13",
+    "journal": "Chembiochem",
+    "title": "Structure-Guided Tuning of a Selectivity Switch towards Ribonucleosides in Trypanosoma brucei Purine Nucleoside 2'-Deoxyribosyltransferase."
+   },
+   {
+    "pmid": "31181726",
+    "date": "2019 Jun 8",
+    "journal": "Molecules",
+    "title": "Synthesis and Cytotoxicity of 7,9-O-Linked Macrocyclic C-Seco Taxoids."
+   },
+   {
+    "pmid": "29872887",
+    "date": "2018 Aug",
+    "journal": "Appl Microbiol Biotechnol",
+    "title": "Characterization of an atypical, thermostable, organic solvent- and acid-tolerant 2'-deoxyribosyltransferase from Chroococcidiopsis thermalis."
+   },
+   {
+    "pmid": "29141994",
+    "date": "2017 Nov 15",
+    "journal": "Cancer Res",
+    "title": "Type II Diabetes and Incidence of Estrogen Receptor Negative Breast Cancer in African American Women."
+   },
+   {
+    "pmid": "28785897",
+    "date": "2017 Oct",
+    "journal": "Appl Microbiol Biotechnol",
+    "title": "2'-Deoxyribosyltransferase from Leishmania mexicana, an efficient biocatalyst for one-pot, one-step synthesis of nucleosides from poorly soluble purine bases."
+   },
+   {
+    "pmid": "25061872",
+    "date": "2014 Sep",
+    "journal": "J Clin Invest",
+    "title": "Cannabidiol exerts sebostatic and antiinflammatory effects on human sebocytes."
+   },
+   {
+    "pmid": "24337862",
+    "date": "2014 Sep",
+    "journal": "Matern Child Health J",
+    "title": "Grandmothers' smoking in pregnancy and grandchildren's birth weight: comparisons by grandmother birth cohort."
+   },
+   {
+    "pmid": "17713593",
+    "date": "2007",
+    "journal": "EURASIP J Bioinform Syst Biol",
+    "title": "Gene selection for multiclass prediction by weighted Fisher criterion."
+   },
+   {
+    "pmid": "14960898",
+    "date": "2002",
+    "journal": "Community Genet",
+    "title": "Prevention and detection of diabetic embryopathy."
+   },
+   {
+    "pmid": "14960897",
+    "date": "2002",
+    "journal": "Community Genet",
+    "title": "The use of birth defect registries for etiological research: a review."
+   },
+   {
+    "pmid": "14619944",
+    "date": "2003 Nov 14",
+    "journal": "Fed Regist",
+    "title": "International Conference on Harmonisation; revised guidance on Q3B(R) Impurities in New Drug Products; Availability. Notice."
+   }
+  ]
+ },
+ "Q4_bvna_payer": {
+  "query": "basivertebral[Title/Abstract] AND (insurance OR payer OR coverage OR \"prior authorization\" OR \"Medicare Advantage\")",
+  "count": 2,
+  "records": [
+   {
+    "pmid": "42804299",
+    "date": "2026 Sep",
+    "journal": "Pain Physician",
+    "title": "Ambulatory Surgery Centers and Medicare Payment Policy for Calendar Year 2027: Impact on Interventional Pain Management."
+   },
+   {
+    "pmid": "38980601",
+    "date": "2024 Oct",
+    "journal": "Pain Ther",
+    "title": "Potential Cost Savings with 60-day Peripheral Nerve Stimulation Treatment in Chronic Axial Low Back Pain."
+   }
+  ]
+ }
+}

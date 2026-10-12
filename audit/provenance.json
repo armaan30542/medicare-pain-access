@@ -1,0 +1,222 @@
+[
+ {
+  "cached_file": "prov_svc_2018_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/5669eafb-f0b3-4dc5-be6d-abc09b480c2e/MUP_PHY_R25_P04_V20_D18_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:10:51+00:00",
+  "bytes_streamed": 3125246884,
+  "rows_scanned": 9961865,
+  "rows_kept": 26847,
+  "cached_bytes": 302576,
+  "sha256": "2f12b5660f9c0a09ee3fa1c2df5f0e9c416eb8a6196dc54cccefa9fcdafcedb4"
+ },
+ {
+  "cached_file": "prov_svc_2015_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/14954ce3-4c43-43df-97e9-2c0437d7b43c/MUP_PHY_R25_P04_V20_D15_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:10:51+00:00",
+  "bytes_streamed": 2975342985,
+  "rows_scanned": 9496848,
+  "rows_kept": 14771,
+  "cached_bytes": 180363,
+  "sha256": "f208433b3de4727d8cb3652e5a70cafe441729f2b05a8b39f9a86dd59a1a756f"
+ },
+ {
+  "cached_file": "prov_svc_2016_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/426bf97a-4cb8-47ca-9727-a535d9e8c298/MUP_PHY_R25_P04_V20_D16_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:10:51+00:00",
+  "bytes_streamed": 3051491999,
+  "rows_scanned": 9714896,
+  "rows_kept": 16222,
+  "cached_bytes": 195750,
+  "sha256": "0933710fad0d8e11ae1d40d02da0e6cbff6ed1a59a86b5464a07a402ce7254c2"
+ },
+ {
+  "cached_file": "prov_svc_2017_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/4623fb40-781e-4eef-860e-b851cd5d10ea/MUP_PHY_R25_P04_V20_D17_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:10:51+00:00",
+  "bytes_streamed": 3086599908,
+  "rows_scanned": 9847443,
+  "rows_kept": 26009,
+  "cached_bytes": 294681,
+  "sha256": "eac0e65b87dc6b392d119bcb3799d8013372438f3fc90a60d3e198651066233c"
+ },
+ {
+  "cached_file": "prov_svc_2019_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/7befba27-752e-47a8-a76c-6c6d4f74f2e3/MUP_PHY_R25_P04_V20_D19_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:10:51+00:00",
+  "bytes_streamed": 3176102801,
+  "rows_scanned": 10140228,
+  "rows_kept": 27306,
+  "cached_bytes": 306704,
+  "sha256": "85ad2b0be2634a5a6b54e11e85022dfa18878e5fc59d2202d2d9314597b27a16"
+ },
+ {
+  "cached_file": "prov_svc_2024_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2026-05/b5ebab5a-f490-418a-9bce-4b9f31419356/PHY_R26_P05_V10_D24_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:16:11+00:00",
+  "bytes_streamed": 3250282192,
+  "rows_scanned": 9781673,
+  "rows_kept": 26715,
+  "cached_bytes": 296241,
+  "sha256": "dce5a2f7ea7edd9b26961491641829cdb15d3e9f51a14ebb0a21620ea09bcf82"
+ },
+ {
+  "cached_file": "prov_svc_2021_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/bffaf97a-c2ab-4fd7-8718-be90742e3485/MUP_PHY_R25_P05_V20_D21_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:15:34+00:00",
+  "bytes_streamed": 3100222715,
+  "rows_scanned": 9886177,
+  "rows_kept": 26137,
+  "cached_bytes": 295291,
+  "sha256": "7295d2dc4767abeb535e6d4fa7b08cd1e16c2e3fd7d719e207715b50f1b8e7f9"
+ },
+ {
+  "cached_file": "prov_svc_2020_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/d22b18cd-7726-4bf5-8e9c-3e4587c589a1/MUP_PHY_R25_P05_V20_D20_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:15:29+00:00",
+  "bytes_streamed": 2994090236,
+  "rows_scanned": 9449361,
+  "rows_kept": 25034,
+  "cached_bytes": 281239,
+  "sha256": "dbd6bb87183982d3f674d2324879dc93fe4c9d1012aea3bd986889e57d179dfd"
+ },
+ {
+  "cached_file": "prov_svc_2023_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-04/e3f823f8-db5b-4cc7-ba04-e7ae92b99757/MUP_PHY_R25_P05_V20_D23_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:15:42+00:00",
+  "bytes_streamed": 3062332720,
+  "rows_scanned": 9660647,
+  "rows_kept": 26626,
+  "cached_bytes": 295826,
+  "sha256": "ef5c67f8cef31fe5045086d3f0ae1bc72748220cc9662aea09db4b0ca572dc96"
+ },
+ {
+  "cached_file": "prov_svc_2022_studycodes.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-11/53fb2bae-4913-48dc-a6d4-d8c025906567/MUP_PHY_R25_P05_V20_D22_Prov_Svc.csv",
+  "downloaded_utc": "2026-08-25T19:15:35+00:00",
+  "bytes_streamed": 3066783950,
+  "rows_scanned": 9755427,
+  "rows_kept": 26209,
+  "cached_bytes": 292073,
+  "sha256": "721c4097373bb86e47532163ad19860d81eb993220c4ca15c8fa3e5e58ce851d"
+ },
+ {
+  "cached_file": "geo_svc_2015.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2020-07/MUP_PHY_R19_P04_V10_D15_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:04+00:00",
+  "bytes_streamed": 40748079,
+  "rows_scanned": 266459,
+  "rows_kept": 266459,
+  "cached_bytes": 12414538,
+  "sha256": "025615b550a60718f5480446dac60ce1d7a7fcae750499588bcc8c9a70eefc94"
+ },
+ {
+  "cached_file": "geo_svc_2016.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2020-07/MUP_PHY_R19_P04_V10_D16_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:09+00:00",
+  "bytes_streamed": 41365473,
+  "rows_scanned": 269836,
+  "rows_kept": 269836,
+  "cached_bytes": 12586274,
+  "sha256": "a1ff2925a229ee343f53c248419b69f42a33bd3f251014b7b4fd346d3697bd48"
+ },
+ {
+  "cached_file": "geo_svc_2017.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2020-07/MUP_PHY_R19_P04_V10_D17_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:13+00:00",
+  "bytes_streamed": 41618710,
+  "rows_scanned": 269902,
+  "rows_kept": 269902,
+  "cached_bytes": 12641148,
+  "sha256": "0387340be9b281f5f540ab31fa2ecc68e66f9c95a182ad36c805ad470c7e39c8"
+ },
+ {
+  "cached_file": "geo_svc_2018.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2020-12/MUP_PHY_R20_P04_V10_D18_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:16+00:00",
+  "bytes_streamed": 41929936,
+  "rows_scanned": 271742,
+  "rows_kept": 271742,
+  "cached_bytes": 12728449,
+  "sha256": "1cd5377a11709bdc581d23fc1f8334c0ef8780c6dc74783a53c35db24c626771"
+ },
+ {
+  "cached_file": "geo_svc_2019.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2021-08/MUP_PHY_R21_P04_V10_D19_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:21+00:00",
+  "bytes_streamed": 42310183,
+  "rows_scanned": 273211,
+  "rows_kept": 273211,
+  "cached_bytes": 12824762,
+  "sha256": "a5c30b1510e0dab3441c2b822e4b3eaa509c1c429201c25f9c8958a4c91abd8a"
+ },
+ {
+  "cached_file": "geo_svc_2020.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2022-07/0d730fe9-deb8-453b-a2fd-ce778286d9f6/MUP_PHY_R22_P05_V10_D20_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:24+00:00",
+  "bytes_streamed": 42191673,
+  "rows_scanned": 268149,
+  "rows_kept": 268149,
+  "cached_bytes": 12778150,
+  "sha256": "e70cb8784dc03e2e7b5d47417e52652ca8ddbfb7c43d86353191bdf259a8e7eb"
+ },
+ {
+  "cached_file": "geo_svc_2021.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2023-05/0a47308e-812e-42cb-8ecf-0c1f457ab849/MUP_PHY_R23_P05_V10_D21_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:26+00:00",
+  "bytes_streamed": 43747451,
+  "rows_scanned": 271635,
+  "rows_kept": 271635,
+  "cached_bytes": 13277851,
+  "sha256": "489028cf3ac9dd639fcb2bc4329a5fd3875811fddb8d04026e62631777b1cfba"
+ },
+ {
+  "cached_file": "geo_svc_2022.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2024-05/3167b4d9-10c0-48f0-a680-1165f4eec064/MUP_PHY_R24_P05_V10_D22_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:29+00:00",
+  "bytes_streamed": 42276604,
+  "rows_scanned": 270673,
+  "rows_kept": 270673,
+  "cached_bytes": 12948839,
+  "sha256": "7a35d9ff404b8143443cebefdad4a99293ef70e43a65dfba16900de13b265b4f"
+ },
+ {
+  "cached_file": "geo_svc_2023.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2025-04/3b718a11-a28d-4c38-a13b-2c6eeb649980/MUP_PHY_R25_P05_V20_D23_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:31+00:00",
+  "bytes_streamed": 42062039,
+  "rows_scanned": 268634,
+  "rows_kept": 268634,
+  "cached_bytes": 12827992,
+  "sha256": "a716af272a675f2138b08417ffc73f830bc20e70bb15ce9d1e6eacc8911c8ae3"
+ },
+ {
+  "cached_file": "geo_svc_2024.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2026-05/e534c74b-79b8-4892-8a95-5a17e2dfec9f/MUP_PHY_R26_P05_V10_D24_Geo.csv",
+  "downloaded_utc": "2026-08-25T19:21:33+00:00",
+  "bytes_streamed": 42078094,
+  "rows_scanned": 268350,
+  "rows_kept": 268350,
+  "cached_bytes": 12855922,
+  "sha256": "81f52dc188185c324236a675bb403631cb8ab42a9d0ab2676e6c61279b545ed5"
+ },
+ {
+  "cached_file": "geo_variation_national_state_county.csv.gz",
+  "source_url": "https://data.cms.gov/sites/default/files/2026-04/cc600d1e-d475-4b0e-80dc-1f64c01ca68c/2014-2024%20Original%20Medicare%20Geographic%20Variation%20Public%20Use%20File.csv",
+  "downloaded_utc": "2026-08-25T19:21:36+00:00",
+  "bytes_streamed": 57865948,
+  "rows_scanned": 36994,
+  "rows_kept": 36994,
+  "cached_bytes": 24740164,
+  "sha256": "b39b2588395ab0808cdbaf1d1316ef2f0ce8275f34a1782ece2fd168b4067065"
+ },
+ {
+  "cached_file": "saipe_2024_state_county.txt.gz",
+  "source_url": "https://www2.census.gov/programs-surveys/saipe/datasets/2024/2024-state-and-county/est24all.txt",
+  "downloaded_utc": "2026-08-25T19:23:02+00:00",
+  "bytes_streamed": 846940,
+  "rows_scanned": 3195,
+  "rows_kept": 3195,
+  "cached_bytes": 210460,
+  "sha256": "e10548c80e8d4e352296df197fe4e4fce04db68cd6811d5b855f237859089c18"
+ }
+]

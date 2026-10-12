@@ -1,0 +1,27 @@
+{
+ "figure1": {
+  "title": "BVNA use per Medicare beneficiary rose 3.0-fold in two years",
+  "subtitle": "From 15.7 to 47.7 procedures per 100,000 fee-for-service beneficiaries, 2022-2024. Extra levels per procedure fell, from 0.40 to 0.32.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners (by Provider and Service; by Geography and Service), data years 2022-2024; geography files accessed 2026-08-25; BVNA provider rows accessed 2026-10-10. Totals from the geography file, which counts low-volume providers. Robustness: counting clinician claims only (no surgery-centre double count), volume rose 2.9-fold. Before 2022 BVNA was billed as facility-only C9752."
+ },
+ "figure2": {
+  "title": "BVNA is spread across many low-volume providers, not a small expert core",
+  "subtitle": "1,791+ provider entries billed BVNA in 2024; only 189 clinicians cleared the 11-patient floor. Among them the top 10% deliver 23% (Gini 0.27, 95% CI 0.24-0.30), the least concentrated of the four.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners (by Provider and Service; by Geography and Service), 2024; geography files accessed 2026-08-25; BVNA provider rows accessed 2026-10-10. Clinicians only (surgery-centre claims excluded). CMS drops rows with 10 or fewer beneficiaries; the less of a procedure is visible, the more that flattens its curve, so BVNA's low Gini is partly mechanical. CIs: 2,000-resample bootstrap."
+ },
+ "figure3": {
+  "title": "BVNA deserts are closing fast: 15 states in 2022, 6 in 2024",
+  "subtitle": "In 2024, between 6 states (2.7% of fee-for-service beneficiaries) and 19 states (16.2%) had little or no visible BVNA, depending on which file you trust. Lowest-access states: DC, HI, ME, MT, NH, VT.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners (by Provider and Service; by Geography and Service), data years 2022-2024; geography files accessed 2026-08-25; BVNA provider rows accessed 2026-10-10. The two files bracket the truth: the geography file counts low-volume providers but drops state rows under 11 beneficiaries; the provider file shows only providers above its own 11-patient floor."
+ },
+ "figure4": {
+  "title": "BVNA is done by the same specialties as facet ablation: 92% pain, anesthesia or PM&R",
+  "subtitle": "Spine surgery and interventional radiology together account for 6.6% of visible BVNA services in 2024. The specialty profile is almost identical to lumbar facet RFA.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners (by Provider and Service; by Geography and Service), data year 2024; geography files accessed 2026-08-25; BVNA provider rows accessed 2026-10-10. Clinicians above the 11-patient floor only, by CMS rendering-provider specialty; surgery centres excluded."
+ },
+ "figure5": {
+  "title": "Side by side, BVNA is the fastest-growing, most facility-bound and least rural of the four",
+  "subtitle": "BVNA use grew 204% in two years, 97% happens in a facility, and only 5.8% of visible services come from clinicians outside metro areas.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners (by Provider and Service; by Geography and Service), data years 2022-2024; geography files accessed 2026-08-25; BVNA provider rows accessed 2026-10-10. Growth and setting from the geography file (all providers); rurality from RUCA codes of visible clinicians only (RUCA 4-10 = non-metro)."
+ }
+}

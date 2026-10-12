@@ -1,0 +1,23 @@
+# Data: downloaded and rebuilt by `python run.py`. Never committed.
+data/
+
+# Large or binary build outputs, regenerated on every run.
+deck.html
+deck.pptx
+bvna/deck_bvna.pptx
+
+# Caches, logs and scratch from development.
+audit/pm_*.xml
+audit/cms_datajson.json
+audit/download.log
+audit/results_smoke.json
+audit/urls.json
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Local tooling and material produced outside this pipeline.
+.claude/
+Claude outputs/
+bvna/map_input_*.csv

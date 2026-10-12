@@ -1,0 +1,37 @@
+{
+ "figure1": {
+  "title": "PNS volume has risen 16-fold since its 2018 trough",
+  "subtitle": "But it is only 55% above its 2015 level: 64555 billing collapsed between 2016 and 2018 before growing every year since. Epidural injections declined over the same period.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners - by Provider and Service + CMS Medicare Geographic Variation (National/State/County), data years 2017-2024. Accessed 2026-08-25. Analysis: 100% free public data, no license required.  CPT 62323 was created in 2017, so all series are indexed to 2017."
+ },
+ "figure2": {
+  "title": "The top 10% of providers deliver 100% of all PNS volume",
+  "subtitle": "Gini 0.98 for PNS versus 0.68 for epidurals across the same 11,286 providers. Only 268 providers billed PNS at all, versus 7,346 for epidurals.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners - by Provider and Service, data years 2024. Accessed 2026-08-25. Analysis: 100% free public data, no license required.  Ranked over the common universe of 11,286 providers billing any study code in 2024; Gini CIs are 2,000-resample percentile bootstraps.\nIMPORTANT: CMS suppresses any provider-code row with 10 or fewer beneficiaries, so low-volume providers are invisible. That truncation biases measured concentration DOWNWARD - these estimates are conservative."
+ },
+ "figure3": {
+  "title": "14 states still had no Medicare provider billing PNS in 2024",
+  "subtitle": "Deserts are shrinking fast - but 24% of fee-for-service beneficiaries (6,722,156 people) still live in a state with fewer than 3 PNS providers.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners - by Provider and Service + CMS Medicare Geographic Variation (National/State/County), data years 2015-2024. Accessed 2026-08-25. Analysis: 100% free public data, no license required.  A state counts as zero when no provider clears the 11-beneficiary reporting floor, which is itself an access signal."
+ },
+ "figure4": {
+  "title": "General pain-physician supply predicts PNS volume - but only weakly, and it survives adjustment",
+  "subtitle": "Model A: general density IRR 1.108. Model B adds neuromodulation-capable density: general density barely moves (1.089) and stays significant. This does NOT support the hypothesis that general supply is the wrong denominator.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners - by Provider and Service + CMS Medicare Geographic Variation (National/State/County), data years 2015-2024. Accessed 2026-08-25. Analysis: 100% free public data, no license required.  Negative binomial, log FFS-beneficiary offset, year fixed effects, SE clustered on state. N = 510 state-years, 51 clusters. Pseudo R2: A = 0.018, B = 0.022. Overdispersion alpha = 6.55 (Poisson would require alpha = 0)."
+ },
+ "figure5": {
+  "title": "State income shows no detectable relationship with PNS access",
+  "subtitle": "Pearson r = 0.013 (p = 0.93); Spearman rho = 0.073 (p = 0.61); n = 51 states. The expected income gradient is NOT present in these data.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners - by Provider and Service, data years 2024. Accessed 2026-08-25. Analysis: 100% free public data, no license required.  Income: US Census Small Area Income and Poverty Estimates, 2024. SAIPE replaces the ACS API, which now requires a key for every request."
+ },
+ "figure5b": {
+  "title": "Dual-eligible share shows no detectable linear relationship with PNS access",
+  "subtitle": "Pearson r = -0.135 (p = 0.34); Spearman rho = -0.252 (p = 0.07); n = 51 states. The rank correlation leans negative but does not reach significance.",
+  "footnote": "Source: CMS Medicare Physician & Other Practitioners - by Provider and Service + CMS Medicare Geographic Variation (National/State/County), data years 2024. Accessed 2026-08-25. Analysis: 100% free public data, no license required.  Dual-eligible share is BENE_DUAL_PCT from the CMS Geographic Variation file."
+ },
+ "figure6": {
+  "title": "Spinal cord stimulation access research outnumbers PNS access research 4 to 1",
+  "subtitle": "Across 2015-2024: 168 SCS papers versus 44 PNS papers on matched access/utilization queries.",
+  "footnote": "Source: NCBI PubMed E-utilities esearch, accessed 2026-08-25. Exact queries (identical except the therapy term):\nSCS: (\"spinal cord stimulation\"[Title/Abstract]) AND (access[Title/Abstract] OR utilization[Title/Abstract] OR disparities[Title/Abstract] OR \"geographic variation\"[Title/Abstract] OR epidemiology[Title/Abstract])\nPNS: (\"peripheral nerve stimulation\"[Title/Abstract]) AND (access[Title/Abstract] OR utilization[Title/Abstract] OR disparities[Title/Abstract] OR \"geographic variation\"[Title/Abstract] OR epidemiology[Title/Abstract])\nCaveat: publication counts from a keyword query proxy research attention; they are not proof of absence."
+ }
+}

@@ -1,0 +1,1548 @@
+{
+ "novelty": {
+  "Q1_pns_title_access": {
+   "term": "\"peripheral nerve stimulation\"[Title] AND (Medicare OR access OR disparities OR utilization OR geographic)",
+   "count": 125,
+   "records": [
+    {
+     "pmid": "42619688",
+     "title": "Peripheral Nerve Stimulation Optimized Pulses for EPI (POPE) allows high-resolution fMRI.",
+     "journal": "bioRxiv",
+     "date": "2026 Jul 27",
+     "authors": "\n\t\tHuber RL\n\t\tRattenbacher D\n\t\tGuerin B\n\t\tHong H\n\t\tPizzuti A\n\t\tGulban OF\n\t\tLo TW\n\t\tMareyam A\n\t\tDroppa K\n\t\tYao J\n\t\tAnaloro C\n\t\tWighton P\n\t\tFeinberg D\n\t\tWald LL\n\t\tStirnberg R\n\t",
+     "doi": "10.64898/2026.07.22.739360"
+    },
+    {
+     "pmid": "42550548",
+     "title": "Peripheral Nerve Stimulation for the Treatment of Parsonage-Turner Syndrome: A Report of Two Cases.",
+     "journal": "Pain Med Case Rep",
+     "date": "2026 Jul",
+     "authors": "\n\t\tRao SD\n\t\tCrowther JE\n\t\tScemama P\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "42550517",
+     "title": "Peripheral Nerve Stimulation Is Medically Necessary and Clinically Validated and Can No Longer Be Deemed Experimental.",
+     "journal": "Pain Physician",
+     "date": "2026 Jul",
+     "authors": "\n\t\tStaats PS\n\t\tDeer T\n\t\tLi S\n\t\tSlavin K\n\t\tWahezi S\n\t\tDay M\n\t\tChristo P\n\t\tEldrige JS\n\t\tCohen SP\n\t\tHah J\n\t\tDickerson D\n\t\tKalia H\n\t\tLevy R\n\t\tKaye AD\n\t\tSanapati MR\n\t\tManchikanti L\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "42498450",
+     "title": "Longitudinal outcomes following temporary 60-day percutaneous peripheral nerve stimulation for chronic pain: a retrospective analysis.",
+     "journal": "Reg Anesth Pain Med",
+     "date": "2026 Jul 24",
+     "authors": "\n\t\tChiang MC\n\t\tSmith MR\n\t\tKarri J\n\t\tHao D\n\t",
+     "doi": "10.1136/rapm-2026-108123"
+    },
+    {
+     "pmid": "42434580",
+     "title": "Thoracic medial branch peripheral nerve stimulation for adjacent segment pain in a patient with a long construct fusion: a case report.",
+     "journal": "J Spine Surg",
+     "date": "2026 Jun 30",
+     "authors": "\n\t\tWanner LK\n\t\tFishman MA\n\t\tRenninger J\n\t\tYohe T\n\t",
+     "doi": "10.21037/jss-2026-0063"
+    },
+    {
+     "pmid": "42372012",
+     "title": "Rat Animal Models for Evaluation of the Effects of Sacral and Peripheral Nerve Stimulation on Bladder Function.",
+     "journal": "J Vis Exp",
+     "date": "2026 Jun 9",
+     "authors": "\n\t\tKanaan R\n\t\tKrhut J\n\t\tZvara P\n\t",
+     "doi": "10.3791/70300"
+    },
+    {
+     "pmid": "42041943",
+     "title": "Quality of ChatGPT-Generated Responses to Common Patient Questions About Peripheral Nerve Stimulation: A Cross-Sectional Study.",
+     "journal": "Clin Pract",
+     "date": "2026 Mar 25",
+     "authors": "\n\t\tOdonkor CA\n\t\tSiddique MU\n\t\tPalaniappan S\n\t\tLocklear J\n\t\tPokuri S\n\t\tAdler A\n\t\tAdekoya P\n\t\tHsu AW\n\t\tPaek J\n\t\tPrabhakar H\n\t\tMartins YC\n\t\tSmith C\n\t\tOsuagwu U\n\t\tComrie FK\n\t\tAbd El Sayed A\n\t",
+     "doi": "10.3390/clinpract16040066"
+    },
+    {
+     "pmid": "42001150",
+     "title": "Mind the gap: the temporal discrimination threshold of tactile sensation from implanted peripheral nerve stimulation.",
+     "journal": "J Neuroeng Rehabil",
+     "date": "2026 Apr 18",
+     "authors": "\n\t\tWright JD\n\t\tCharkhkar H\n\t\tGraczyk EL\n\t",
+     "doi": "10.1186/s12984-026-01986-9"
+    },
+    {
+     "pmid": "41779994",
+     "title": "A Novel Multisite Peripheral Nerve Stimulation Approach for Chronic Hip Pain in Avascular Necrosis: A Case Report.",
+     "journal": "Pain Med Case Rep",
+     "date": "2026 Feb",
+     "authors": "\n\t\tRippe P\n\t\tHallock ML\n\t\tMallard C\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "41707130",
+     "title": "Alleviating Hypotension With Implanted Peripheral Nerve Stimulation for Seated Stabilization: A Case Report in SCI.",
+     "journal": "Am J Phys Med Rehabil",
+     "date": "2026 Mar 1",
+     "authors": "\n\t\tLombardo L\n\t\tHeidorn CE\n\t\tPulliam C\n\t\tMiller M\n\t\tHoyen H\n\t\tKilgore K\n\t\tTriolo R\n\t\tMakowski N\n\t",
+     "doi": "10.1097/PHM.0000000000002809"
+    },
+    {
+     "pmid": "41707127",
+     "title": "Predictors of Success for 60-Day Peripheral Nerve Stimulation Used for Treatment of Chronic Shoulder Pain: A Multicenter Retrospective Chart Review.",
+     "journal": "Am J Phys Med Rehabil",
+     "date": "2026 Mar 1",
+     "authors": "\n\t\tAman MM\n\t\tGutierrez GJ\n\t\tWalker KB\n\t\tRustom DH\n\t\tShaw ET\n\t\tHuffman WJ\n\t\tCrosby ND\n\t\tBoggs JW\n\t\tStudy Investigators\n\t",
+     "doi": "10.1097/PHM.0000000000002814"
+    },
+    {
+     "pmid": "41552066",
+     "title": "Permanent Peripheral Nerve Stimulation for Chronic Cervical Neck Pain: A Case Report.",
+     "journal": "Cureus",
+     "date": "2025 Dec",
+     "authors": "\n\t\tMesseha P\n\t\tWeiderman G\n\t\tBelli J\n\t\tPatel S\n\t\tEl-Hayek T\n\t",
+     "doi": "10.7759/cureus.99344"
+    },
+    {
+     "pmid": "41480460",
+     "title": "Stingray Envenomation Resulting in Neuropathy and Complex Regional Pain Syndrome Treated With Peripheral Nerve Stimulation: A Case Report.",
+     "journal": "Cureus",
+     "date": "2025 Dec",
+     "authors": "\n\t\tScott RM\n\t\tMcLean BC\n\t",
+     "doi": "10.7759/cureus.98242"
+    },
+    {
+     "pmid": "41450406",
+     "title": "Peripheral Nerve Stimulation to the Transverse Abdominis Plane as Therapy for Refractory Abdominal Pain: A Case Series of Two Patients.",
+     "journal": "Cureus",
+     "date": "2025 Nov",
+     "authors": "\n\t\tMallard CJ\n\t\tRippe PC\n\t\tBatra M\n\t\tHarned ME\n\t",
+     "doi": "10.7759/cureus.97686"
+    },
+    {
+     "pmid": "41379062",
+     "title": "Prognostic Value of 60-Day Temporary Peripheral Nerve Stimulation in Predicting Analgesic Outcomes After Permanent Peripheral Nerve Stimulator Implantation: A Multicenter Analysis.",
+     "journal": "Neuromodulation",
+     "date": "2025 Dec 10",
+     "authors": "\n\t\tD'Souza RS\n\t\tYu Y\n\t\tKarri J\n\t\tJaved S\n\t\tHer YF\n\t\tSingh V\n\t\tReeves J\n\t\tChai N\n\t\tHoffmann C\n\t\tWarner DO\n\t\tHussain N\n\t",
+     "doi": "10.1016/j.neurom.2025.11.005"
+    },
+    {
+     "pmid": "41355487",
+     "title": "Peripheral nerve stimulation of the trochanteric branch of the femoral nerve to treat greater trochanteric pain syndrome.",
+     "journal": "Pain Manag",
+     "date": "2026 Feb",
+     "authors": "\n\t\tElsharkawy H\n\t\tMas D Alessandro NM\n\t\tTanios M\n\t\tOlsen A\n\t",
+     "doi": "10.1080/17581869.2025.2591595"
+    },
+    {
+     "pmid": "41293348",
+     "title": "Successful Treatment of Median Nerve Mononeuropathy Occurring After Brachial Arterial Line Placement for a Prolonged Prone Spine Surgery With Ultrasound-Guided Peripheral Nerve Stimulation: A Case Report.",
+     "journal": "Cureus",
+     "date": "2025 Oct",
+     "authors": "\n\t\tChannagiri V\n\t",
+     "doi": "10.7759/cureus.95398"
+    },
+    {
+     "pmid": "41245476",
+     "title": "Consensus Guidelines for the Use of Peripheral Nerve Stimulation in the Treatment of Chronic Pain and Neurological Diseases: A Neuron Project from the American Society of Pain and Neuroscience.",
+     "journal": "J Pain Res",
+     "date": "2025",
+     "authors": "\n\t\tLatif U\n\t\tMoghim R\n\t\tValimahomed A\n\t\tLam CM\n\t\tAbd-Elsayed A\n\t\tGulati A\n\t\tAman MM\n\t\tDesai MJ\n\t\tDickerson DM\n\t\tTieppo Francio V\n\t\tGilmore C\n\t\tGish B\n\t\tHah JM\n\t\tHunter C\n\t\tIlfeld BM\n\t\tKalia H\n\t\tLester",
+     "doi": "10.2147/JPR.S537222"
+    },
+    {
+     "pmid": "41197044",
+     "title": "Intraoperative Neuromonitoring in Peripheral Nerve Stimulation.",
+     "journal": "Neurodiagn J",
+     "date": "2025 Dec",
+     "authors": "\n\t\tAnnaev ZS\n\t\tJackson AF\n\t\tSlavin KV\n\t",
+     "doi": "10.1080/21646821.2025.2568818"
+    },
+    {
+     "pmid": "41138174",
+     "title": "Comparison of percutaneous 60-day peripheral nerve stimulation of the lumbar medial branches to usual care with standard interventional management for chronic low back pain-a multicenter pragmatic randomized controlled trial (RESET).",
+     "journal": "Pain Med",
+     "date": "2026 Apr 1",
+     "authors": "\n\t\tMcCormick ZL\n\t\tLester DD\n\t\tDePalma MJ\n\t\tGilmore CA\n\t\tLi S\n\t\tJameson JB\n\t\tDesai MJ\n\t\tWeaver TE\n\t\tLad SP\n\t\tDavidoff SJ\n\t\tTrainor DM\n\t\tAmirdelfan K\n\t\tEngle MP\n\t\tDeer TR\n\t\tLee TS\n\t\tVetri F\n\t\tBindal M\n\t",
+     "doi": "10.1093/pm/pnaf147"
+    },
+    {
+     "pmid": "40986902",
+     "title": "Effectiveness of Peripheral Nerve Stimulation in Managing Chronic Pain: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+     "journal": "Pain Physician",
+     "date": "2025 Sep",
+     "authors": "\n\t\tManchikanti L\n\t\tKhaira MB\n\t\tSoin A\n\t\tKaye AD\n\t\tKnezevic NN\n\t\tAbd-Elsayed A\n\t\tSanapati M\n\t\tManocha VA\n\t\tHirsch JA\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "40956271",
+     "title": "A Real-World Evaluation of Adjunctive Peripheral Nerve Stimulation for Superior Cluneal Neuropathy After Spinal Cord Stimulation.",
+     "journal": "Neuromodulation",
+     "date": "2025 Dec",
+     "authors": "\n\t\tSkaribas I\n\t\tDeer TR\n\t\tKalia H\n\t\tMoghim R\n\t",
+     "doi": "10.1016/j.neurom.2025.08.408"
+    },
+    {
+     "pmid": "40661284",
+     "title": "A Methodological Framework for the Efficient Characterization of Peripheral Nerve Stimulation Parameters.",
+     "journal": "medRxiv",
+     "date": "2025 May 23",
+     "authors": "\n\t\tJakes RS\n\t\tAlexander BJ\n\t\tMarcu VI\n\t\tAjiboye AB\n\t\tTyler DJ\n\t",
+     "doi": "10.1101/2025.03.29.25324704"
+    },
+    {
+     "pmid": "40587618",
+     "title": "Successful Pain Management of Uncontrollable Left Wrist Pain With Peripheral Nerve Stimulation Following Failed Surgeries: A Case Report.",
+     "journal": "Pain Med Case Rep",
+     "date": "2024 Nov",
+     "authors": "\n\t\tMoghim R\n\t\tMorsi M\n\t\tAbd-Elsayed A\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "40580942",
+     "title": "Provision of up-to-date magnetic resonance imaging conditionality for current peripheral nerve stimulation and spinal cord stimulation systems in pain management.",
+     "journal": "Pain Med",
+     "date": "2025 Dec 1",
+     "authors": "\n\t\tVu PD\n\t\tSlitzky M\n\t\tMiller K\n\t\tYong RJ\n\t\tRobinson CL\n\t\tChung M\n\t",
+     "doi": "10.1093/pm/pnaf076"
+    },
+    {
+     "pmid": "40410617",
+     "title": "Review of Guidelines for Implantable Peripheral Nerve Stimulation (PNS) in the Management of Chronic Pain.",
+     "journal": "Curr Pain Headache Rep",
+     "date": "2025 May 23",
+     "authors": "\n\t\tManchikanti L\n\t\tAbd-Elsayed A\n\t\tKaye AD\n\t\tSanapati MR\n\t\tKnezevic NN\n\t\tManocha V\n\t\tHirsch JA\n\t",
+     "doi": "10.1007/s11916-025-01397-w"
+    },
+    {
+     "pmid": "40331812",
+     "title": "Peripheral Nerve Stimulation for Acute Vertebral Compression Fracture Pain: A Case Report.",
+     "journal": "Pain Med Case Rep",
+     "date": "2025 Apr",
+     "authors": "\n\t\tGeorge TK\n\t\tTria AJ\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "40257337",
+     "title": "Externally Powered Peripheral Nerve Stimulation With a Separate Receiver at the Brachial Plexus Nerve for the Treatment of Pain due to Metastatic Invasion From Advanced Breast Cancer: A Case Report.",
+     "journal": "Pain Med Case Rep",
+     "date": "2025 Feb",
+     "authors": "\n\t\tMartini A\n\t\tSchweiger V\n\t\tVillagrossi L\n\t\tPatton A\n\t\tPoni G\n\t\tPolati E\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "40178466",
+     "title": "Adverse Events Associated With Peripheral Nerve Stimulation: An Analysis of the MAUDE Data base and Implications for Pain and Spine Clinicians.",
+     "journal": "Neuromodulation",
+     "date": "2025 Jun",
+     "authors": "\n\t\tCooper AN\n\t\tSen H\n\t\tKanjanapanang N\n\t\tSaad K\n\t\tWahl G\n\t\tYoung C\n\t\tEssman M\n\t\tFogarty AE\n\t\tBurnham T\n\t\tConger AM\n\t\tMcCormick ZL\n\t\tGlinka Przybysz A\n\t",
+     "doi": "10.1016/j.neurom.2025.02.002"
+    },
+    {
+     "pmid": "39963781",
+     "title": "Computational study of the effects of orthopedic plates on gradient-induced peripheral nerve stimulation under MRI using electromagnetic and neurophysiological modeling.",
+     "journal": "Magn Reson Med",
+     "date": "2025 Jun",
+     "authors": "\n\t\tYang L\n\t\tYang X\n\t\tYe H\n\t\tKaula N\n\t\tJin Y\n\t\tZheng J\n\t\tKainz W\n\t\tChen J\n\t",
+     "doi": "10.1002/mrm.30470"
+    },
+    {
+     "pmid": "39955665",
+     "title": "Incidence of Lead Tip Fracture and Retention After Percutaneous Lead Implantation for Peripheral Nerve Stimulation With an External Pulse Generator: A Multicenter Comparative Analysis of 456 Lead Implants Across Two Lead Hardware Generations.",
+     "journal": "Neuromodulation",
+     "date": "2025 Jun",
+     "authors": "\n\t\tHoffmann C\n\t\tFautsch KJ\n\t\tD'Souza RS\n\t",
+     "doi": "10.1016/j.neurom.2025.01.009"
+    },
+    {
+     "pmid": "39886278",
+     "title": "Peripheral Nerve Stimulation for Chronic Neuropathic Pain: A Health Technology Assessment.",
+     "journal": "Ont Health Technol Assess Ser",
+     "date": "2024",
+     "authors": "\n\t\tOntario Health\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "39817565",
+     "title": "Toward Safety Protocols for Peripheral Nerve Stimulation (PNS): A Computational and Experimental Approach.",
+     "journal": "Bioelectromagnetics",
+     "date": "2025 Jan",
+     "authors": "\n\t\tDu J\n\t\tMorales A\n\t\tKosta P\n\t\tMartinez-Navarrete G\n\t\tWarren DJ\n\t\tFernandez E\n\t\tBouteiller JC\n\t\tMcCreery DC\n\t\tLazzi G\n\t",
+     "doi": "10.1002/bem.22533"
+    },
+    {
+     "pmid": "39757932",
+     "title": "Real-world healthcare utilization and costs of peripheral nerve stimulation with a micro-IPG system.",
+     "journal": "Pain Manag",
+     "date": "2025 Jan",
+     "authors": "\n\t\tKalia H\n\t\tThapa B\n\t\tStaats P\n\t\tMartin P\n\t\tStetter K\n\t\tFeldman B\n\t\tMarci C\n\t",
+     "doi": "10.1080/17581869.2025.2449810"
+    },
+    {
+     "pmid": "39692679",
+     "title": "Peripheral Nerve Stimulation Implantation Combining Ultrasound With Microendoscopy for Management of Chronic Neuropathic Pain: A Case Series Study.",
+     "journal": "Neuromodulation",
+     "date": "2025 Feb",
+     "authors": "\n\t\tBouche B\n\t\tBillot M\n\t\tVoratanouvong A\n\t\tOunajim A\n\t\tMoens M\n\t\tGoudman L\n\t\tEldabe S\n\t\tFontaine D\n\t\tDuraffourg M\n\t\tRoulaud M\n\t\tNivole K\n\t\tMany M\n\t\tBaron S\n\t\tLorgeoux B\n\t\tLampert L\n\t\tDavid R\n\t\tRigoard",
+     "doi": "10.1016/j.neurom.2024.10.013"
+    },
+    {
+     "pmid": "39589685",
+     "title": "Cost Savings in Chronic Pain Patients Initiating Peripheral Nerve Stimulation (PNS) with a 60-Day PNS Treatment.",
+     "journal": "Pain Ther",
+     "date": "2025 Feb",
+     "authors": "\n\t\tDickerson DM\n\t\tKalia H\n\t\tVorenkamp KE\n\t\tSlavin KV\n\t\tHagedorn JM\n\t\tGunnarsson C\n\t\tKeuffel EL\n\t\tEpstein AJ\n\t\tStultz M\n\t\tCrosby ND\n\t",
+     "doi": "10.1007/s40122-024-00677-4"
+    },
+    {
+     "pmid": "39569214",
+     "title": "Intercostal Neuralgia Successfully Managed With Peripheral Nerve Stimulation.",
+     "journal": "Cureus",
+     "date": "2024 Oct",
+     "authors": "\n\t\tGallacher DM\n\t\tGastelum P\n\t\tPark SA\n\t",
+     "doi": "10.7759/cureus.71964"
+    },
+    {
+     "pmid": "39565237",
+     "title": "Comprehensive Evidence-Based Guidelines for Implantable Peripheral Nerve Stimulation (PNS) in the Management of Chronic Pain: From the American Society Of Interventional Pain Physicians (ASIPP).",
+     "journal": "Pain Physician",
+     "date": "2024 Nov",
+     "authors": "\n\t\tManchikanti L\n\t\tSanapati MR\n\t\tSoin A\n\t\tKaye AD\n\t\tKaye AM\n\t\tSolanki DR\n\t\tChen GH\n\t\tNampiaparampil D\n\t\tKnezevic NN\n\t\tChristo P\n\t\tBautista A\n\t\tKarri J\n\t\tShah S\n\t\tHelm Ii S\n\t\tNavani A\n\t\tWargo BW\n\t\tGhar",
+     "doi": null
+    },
+    {
+     "pmid": "39396358",
+     "title": "Peripheral Nerve Stimulation for Pain Management: A Survey of Clinical Practice Patterns.",
+     "journal": "Neuromodulation",
+     "date": "2025 Feb",
+     "authors": "\n\t\tKarri J\n\t\tSivanesan E\n\t\tGulati A\n\t\tSingh V\n\t\tSheen S\n\t\tYalamuru B\n\t\tWang EJ\n\t\tJaved S\n\t\tChung M\n\t\tSohini R\n\t\tHussain N\n\t\tD'Souza RS\n\t",
+     "doi": "10.1016/j.neurom.2024.08.011"
+    },
+    {
+     "pmid": "39359387",
+     "title": "Safety and Efficacy of Axon Therapy (SEAT Study), Utilizing Magnetic Peripheral Nerve Stimulation (mPNS) for Treatment of Neuropathic Pain.",
+     "journal": "J Pain Res",
+     "date": "2024",
+     "authors": "\n\t\tKapural L\n\t\tPatel J\n\t\tRosenberg JC\n\t\tLi S\n\t\tAmirdelfan K\n\t\tBedder M\n\t",
+     "doi": "10.2147/JPR.S481944"
+    }
+   ]
+  },
+  "Q2_code_64555": {
+   "term": "\"64555\"",
+   "count": 18,
+   "records": [
+    {
+     "pmid": "41692193",
+     "title": "Structural characterization of \u03ba-carrageenan by acetylation modification and its effect on intestinal inflammation.",
+     "journal": "Int J Biol Macromol",
+     "date": "2026 Mar",
+     "authors": "\n\t\tShen S\n\t\tTong C\n\t\tLi Z\n\t\tZhu Y\n\t\tHong T\n\t\tNi H\n\t\tJiang Z\n\t\tZheng M\n\t",
+     "doi": "10.1016/j.ijbiomac.2026.150922"
+    },
+    {
+     "pmid": "41250052",
+     "title": "The mediation effect of sleep quality on the association between ambient air pollution and type 2 diabetes among UK adults: a population-based cohort study.",
+     "journal": "BMC Public Health",
+     "date": "2025 Nov 17",
+     "authors": "\n\t\tLin Y\n\t\tGao Y\n\t\tWang J\n\t\tYe S\n\t\tLuo Z\n\t\tHuang N\n\t\tXiao F\n\t",
+     "doi": "10.1186/s12889-025-25160-3"
+    },
+    {
+     "pmid": "40880261",
+     "title": "Variovorax arabinosiphilus sp. nov., Variovorax flavidus sp. nov., Variovorax gracilis sp. nov., Variovorax brevis sp. nov., Variovorax jilinensis sp. nov., Variovorax davisae sp. nov., Variovorax saccharolyticus sp. nov. and Variovorax fucosicus sp. nov., isolated from ginseng rhizosphere.",
+     "journal": "Int J Syst Evol Microbiol",
+     "date": "2025 Aug",
+     "authors": "\n\t\tJiang YH\n\t\tYin CC\n\t\tYang LL\n\t\tXin YH\n\t\tLiu Q\n\t\tYe J\n\t",
+     "doi": "10.1099/ijsem.0.006895"
+    },
+    {
+     "pmid": "39541024",
+     "title": "LES of blockage of thermal radiation to the pool surface in large double pool fires.",
+     "journal": "Environ Sci Pollut Res Int",
+     "date": "2024 Dec",
+     "authors": "\n\t\tBathina SK\n\t\tSiddapureddy S\n\t",
+     "doi": "10.1007/s11356-024-35392-2"
+    },
+    {
+     "pmid": "36713843",
+     "title": "Pharmacokinetics of active compounds of a Terminalia chebula Retz. Ethanolic extract after oral administration rats using UPLC-MS/MS.",
+     "journal": "Front Pharmacol",
+     "date": "2023",
+     "authors": "\n\t\tYao G\n\t\tMiao X\n\t\tWu M\n\t\tLv Z\n\t\tBai Y\n\t\tChang Y\n\t\tOuyang H\n\t\tHe J\n\t",
+     "doi": "10.3389/fphar.2023.1067089"
+    },
+    {
+     "pmid": "35077894",
+     "title": "Trends in Peripheral Nerve Surgery: Workforce, Reimbursement, and Procedural Rates.",
+     "journal": "World Neurosurg",
+     "date": "2022 Apr",
+     "authors": "\n\t\tNguyen B\n\t\tParikh P\n\t\tSingh R\n\t\tPatel N\n\t\tNoland SS\n\t",
+     "doi": "10.1016/j.wneu.2021.12.111"
+    },
+    {
+     "pmid": "31412633",
+     "title": "Fabrication and Surface Interactions of Super-Hydrophobic Silicon Carbide for Membrane Distillation.",
+     "journal": "Nanomaterials (Basel)",
+     "date": "2019 Aug 13",
+     "authors": "\n\t\tBoffa V\n\t\tLunghi C\n\t\tQuist-Jensen CA\n\t\tMagnacca G\n\t\tCalza P\n\t",
+     "doi": "10.3390/nano9081159"
+    },
+    {
+     "pmid": "31261941",
+     "title": "Phenol Abatement by Titanium Dioxide Photocatalysts: Effect of The Graphene Oxide Loading.",
+     "journal": "Nanomaterials (Basel)",
+     "date": "2019 Jun 29",
+     "authors": "\n\t\tNaknikham U\n\t\tMagnacca G\n\t\tQiao A\n\t\tKristensen PK\n\t\tBoffa V\n\t\tYue Y\n\t",
+     "doi": "10.3390/nano9070947"
+    },
+    {
+     "pmid": "26922339",
+     "title": "Pattern recognition analysis of chromatographic fingerprints of Crocus sativus L. secondary metabolites towards source identification and quality control.",
+     "journal": "Anal Bioanal Chem",
+     "date": "2016 May",
+     "authors": "\n\t\tAliakbarzadeh G\n\t\tSereshti H\n\t\tParastar H\n\t",
+     "doi": "10.1007/s00216-016-9400-8"
+    },
+    {
+     "pmid": "24731307",
+     "title": "A rapid and simple determination of caffeine in teas, coffees and eight beverages.",
+     "journal": "Food Chem",
+     "date": "2014 Sep 1",
+     "authors": "\n\t\tSereshti H\n\t\tSamadi S\n\t",
+     "doi": "10.1016/j.foodchem.2014.02.095"
+    },
+    {
+     "pmid": "24607127",
+     "title": "Miniaturized salting-out liquid-liquid extraction in a coupled-syringe system combined with HPLC-UV for extraction and determination of sulfanilamide.",
+     "journal": "Talanta",
+     "date": "2014 Apr",
+     "authors": "\n\t\tSereshti H\n\t\tKhosraviani M\n\t\tSadegh Amini-Fazl M\n\t",
+     "doi": "10.1016/j.talanta.2014.01.005"
+    },
+    {
+     "pmid": "24054273",
+     "title": "Determination of volatile components of saffron by optimised ultrasound-assisted extraction in tandem with dispersive liquid-liquid microextraction followed by gas chromatography-mass spectrometry.",
+     "journal": "Food Chem",
+     "date": "2014 Jan 15",
+     "authors": "\n\t\tSereshti H\n\t\tHeidari R\n\t\tSamadi S\n\t",
+     "doi": "10.1016/j.foodchem.2013.08.024"
+    },
+    {
+     "pmid": "22841073",
+     "title": "Optimized ultrasound-assisted emulsification microextraction for simultaneous trace multielement determination of heavy metals in real water samples by ICP-OES.",
+     "journal": "Talanta",
+     "date": "2012 Aug 15",
+     "authors": "\n\t\tSereshti H\n\t\tHeravi YE\n\t\tSamadi S\n\t",
+     "doi": "10.1016/j.talanta.2012.04.024"
+    },
+    {
+     "pmid": "20888566",
+     "title": "Optimization of dispersive liquid-liquid microextraction and improvement of detection limit of methyl tert-butyl ether in water with the aid of chemometrics.",
+     "journal": "J Chromatogr A",
+     "date": "2010 Nov 5",
+     "authors": "\n\t\tKarimi M\n\t\tSereshti H\n\t\tSamadi S\n\t\tParastar H\n\t",
+     "doi": "10.1016/j.chroma.2010.09.015"
+    },
+    {
+     "pmid": "19368197",
+     "title": "Ionic liquids for simultaneous preconcentration of some lanthanoids using dispersive liquid-liquid microextraction technique in uranium dioxide powder.",
+     "journal": "Environ Sci Technol",
+     "date": "2009 Mar 15",
+     "authors": "\n\t\tMallah MH\n\t\tShemirani F\n\t\tMaragheh MG\n\t",
+     "doi": "10.1021/es8030566"
+    },
+    {
+     "pmid": "18823877",
+     "title": "Forkhead box, class O transcription factors in brain: regulation and behavioral manifestation.",
+     "journal": "Biol Psychiatry",
+     "date": "2009 Jan 15",
+     "authors": "\n\t\tPolter A\n\t\tYang S\n\t\tZmijewska AA\n\t\tvan Groen T\n\t\tPaik JH\n\t\tDepinho RA\n\t\tPeng SL\n\t\tJope RS\n\t\tLi X\n\t",
+     "doi": "10.1016/j.biopsych.2008.08.005"
+    },
+    {
+     "pmid": "14674677",
+     "title": "Characterization of the inhibitory effects of erythromycin and clarithromycin on the HERG potassium channel.",
+     "journal": "Mol Cell Biochem",
+     "date": "2003 Dec",
+     "authors": "\n\t\tStanat SJ\n\t\tCarlton CG\n\t\tCrumb WJ Jr\n\t\tAgrawal KC\n\t\tClarkson CW\n\t",
+     "doi": "10.1023/a:1027309703313"
+    },
+    {
+     "pmid": "12218360",
+     "title": "Cardiac glycosides induce resistance to tubulin-dependent anticancer drugs in androgen-independent human prostate cancer.",
+     "journal": "J Biomed Sci",
+     "date": "2002 Sep-Oct",
+     "authors": "\n\t\tHuang DM\n\t\tGuh JH\n\t\tHuang YT\n\t\tChueh SC\n\t\tWang HP\n\t\tTeng CM\n\t",
+     "doi": "10.1007/BF02256539"
+    }
+   ]
+  },
+  "Q3_neuromod_geo": {
+   "term": "(neuromodulation) AND (\"geographic variation\" OR county OR \"access to care\") AND Medicare",
+   "count": 24,
+   "records": [
+    {
+     "pmid": "40904620",
+     "title": "Healthcare Utilization and Cost in the Two Years Before Neuromodulation Implantation Among Medicaid Enrollees with Drug-Resistant Epilepsy.",
+     "journal": "Clinicoecon Outcomes Res",
+     "date": "2025",
+     "authors": "\n\t\tEvans K\n\t\tLi Q\n\t\tZhang L\n\t\tLam S\n\t\tDo Rego B\n\t\tDanielson V\n\t\tLassagne R\n\t\tBerger A\n\t",
+     "doi": "10.2147/CEOR.S551202"
+    },
+    {
+     "pmid": "40633708",
+     "title": "Impact of social determinants of health on fecal incontinence treatment in older women.",
+     "journal": "Am J Obstet Gynecol",
+     "date": "2025 Dec",
+     "authors": "\n\t\tHalani PK\n\t\tWilson L\n\t\tCadish LA\n\t\tRouth JC\n\t\tAnger J\n\t",
+     "doi": "10.1016/j.ajog.2025.07.006"
+    },
+    {
+     "pmid": "38833712",
+     "title": "Geographic Variation of Antidementia and Antipsychotic Medication Use Among US Nursing Home Residents With Dementia.",
+     "journal": "Med Care",
+     "date": "2024 Aug 1",
+     "authors": "\n\t\tRataj A\n\t\tAlcusky M\n\t\tBaek J\n\t\tOtt B\n\t\tLapane KL\n\t",
+     "doi": "10.1097/MLR.0000000000002016"
+    },
+    {
+     "pmid": "38294579",
+     "title": "Variation of Clozapine Use for Treatment of Schizophrenia: Evidence from Pennsylvania Medicaid and Dually Eligible Enrollees.",
+     "journal": "Community Ment Health J",
+     "date": "2024 May",
+     "authors": "\n\t\tSarpal DK\n\t\tCole ES\n\t\tGannon JM\n\t\tLi J\n\t\tAdair DK\n\t\tChengappa KNR\n\t\tDonohue JM\n\t",
+     "doi": "10.1007/s10597-023-01226-7"
+    },
+    {
+     "pmid": "38287140",
+     "title": "Association of patient characteristics and insurance type with anti-obesity medications prescribing and fills.",
+     "journal": "Diabetes Obes Metab",
+     "date": "2024 May",
+     "authors": "\n\t\tGasoyan H\n\t\tPfoh ER\n\t\tSchulte R\n\t\tSullivan E\n\t\tLe P\n\t\tRothberg MB\n\t",
+     "doi": "10.1111/dom.15473"
+    },
+    {
+     "pmid": "37150720",
+     "title": "Association of Nondihydropyridine Calcium Channel Blockers Versus \u03b2-Adrenergic Receptor Blockers With Risk of Heart Failure Hospitalization.",
+     "journal": "Am J Cardiol",
+     "date": "2023 Jun 15",
+     "authors": "\n\t\tMeyer M\n\t\tWetmore JB\n\t\tWeinhandl ED\n\t\tRoetker NS\n\t",
+     "doi": "10.1016/j.amjcard.2023.04.013"
+    },
+    {
+     "pmid": "36730660",
+     "title": "Despite Recommendations, Anticholinergics Account for the Majority of Prescriptions to Treat Overactive Bladder in the United States.",
+     "journal": "Urogynecology (Phila)",
+     "date": "2023 May 1",
+     "authors": "\n\t\tCarr DN\n\t\tMacharia A\n\t\tHacker MR\n\t\tWinkelman WD\n\t",
+     "doi": "10.1097/SPV.0000000000001301"
+    },
+    {
+     "pmid": "36481735",
+     "title": "Cardiovascular Diseases, Medications, and ALS: A Population-Based Case-Control Study.",
+     "journal": "Neuroepidemiology",
+     "date": "2022",
+     "authors": "\n\t\tAbdel Magid HS\n\t\tTopol B\n\t\tMcGuire V\n\t\tHinman JA\n\t\tKasarskis EJ\n\t\tNelson LM\n\t",
+     "doi": "10.1159/000526982"
+    },
+    {
+     "pmid": "35358161",
+     "title": "Notes From the Field: Xylazine-Related Deaths - Cook County, Illinois, 2017-2021.",
+     "journal": "MMWR Morb Mortal Wkly Rep",
+     "date": "2022 Apr 1",
+     "authors": "\n\t\tChhabra N\n\t\tMir M\n\t\tHua MJ\n\t\tBerg S\n\t\tNowinski-Konchak J\n\t\tAks S\n\t\tArunkumar P\n\t\tHinami K\n\t",
+     "doi": "10.15585/mmwr.mm7113a3"
+    },
+    {
+     "pmid": "35331005",
+     "title": "Adverse Outcomes Associated With Off-Label Agents Used to Treat Dementia Patients With Psychosis: A Case-Control Medicare Database Study.",
+     "journal": "Am J Alzheimers Dis Other Demen",
+     "date": "2022 Jan-Dec",
+     "authors": "\n\t\tRashid N\n\t\tWetmore JB\n\t\tIrfan M\n\t\tAbler V\n\t",
+     "doi": "10.1177/15333175221081374"
+    },
+    {
+     "pmid": "33337542",
+     "title": "Characterizing the providers of and reimbursement for chronic migraine chemodenervation among the Medicare population.",
+     "journal": "Headache",
+     "date": "2021 Feb",
+     "authors": "\n\t\tTorabi SJ\n\t\tKasle DA\n\t\tSavoca EL\n\t\tGottschalk CH\n\t\tManes RP\n\t",
+     "doi": "10.1111/head.14040"
+    },
+    {
+     "pmid": "32119095",
+     "title": "Association of Formulary Exclusions and Restrictions for Opioid Alternatives With Opioid Prescribing Among Medicare Beneficiaries.",
+     "journal": "JAMA Netw Open",
+     "date": "2020 Mar 2",
+     "authors": "\n\t\tRao T\n\t\tKiptanui Z\n\t\tDowell P\n\t\tTriebwasser C\n\t\tAlexander GC\n\t\tHarris I\n\t",
+     "doi": "10.1001/jamanetworkopen.2020.0274"
+    },
+    {
+     "pmid": "31183157",
+     "title": "Telepsychiatry for patients with movement disorders: a feasibility and patient satisfaction study.",
+     "journal": "J Clin Mov Disord",
+     "date": "2019",
+     "authors": "\n\t\tSeritan AL\n\t\tHeiry M\n\t\tIosif AM\n\t\tDodge M\n\t\tOstrem JL\n\t",
+     "doi": "10.1186/s40734-019-0077-y"
+    },
+    {
+     "pmid": "29694289",
+     "title": "Economic Burden Associated with Receiving Inhaled Corticosteroids with Leukotriene Receptor Antagonists or Long-Acting Beta Agonists as Combination Therapy in Older Adults.",
+     "journal": "J Manag Care Spec Pharm",
+     "date": "2018 May",
+     "authors": "\n\t\tAltawalbeh SM\n\t\tThorpe CT\n\t\tZgibor JC\n\t\tKane-Gill S\n\t\tKang Y\n\t\tThorpe JM\n\t",
+     "doi": "10.18553/jmcp.2018.24.5.478"
+    },
+    {
+     "pmid": "28151871",
+     "title": "Antihypertensive medications and risk of death and hospitalizations in US hemodialysis patients: Evidence from a cohort study to inform hypertension treatment practices.",
+     "journal": "Medicine (Baltimore)",
+     "date": "2017 Feb",
+     "authors": "\n\t\tShafi T\n\t\tSozio SM\n\t\tLuly J\n\t\tBandeen-Roche KJ\n\t\tSt Peter WL\n\t\tEphraim PL\n\t\tMcDermott A\n\t\tHerzog CA\n\t\tCrews DC\n\t\tScialla JJ\n\t\tTangri N\n\t\tMiskulin DC\n\t\tMichels WM\n\t\tJaar BG\n\t\tZager PG\n\t\tMeyer KB\n\t\tW",
+     "doi": "10.1097/MD.0000000000005924"
+    },
+    {
+     "pmid": "27465051",
+     "title": "Examining racial variation in antiemetic use and post-chemotherapy health care utilization for nausea and vomiting among breast cancer patients.",
+     "journal": "Support Care Cancer",
+     "date": "2016 Dec",
+     "authors": "\n\t\tCheck DK\n\t\tReeder-Hayes KE\n\t\tZullig LL\n\t\tWeinberger M\n\t\tBasch EM\n\t\tDusetzina SB\n\t",
+     "doi": "10.1007/s00520-016-3338-4"
+    },
+    {
+     "pmid": "27351988",
+     "title": "Antileukotriene Agents Versus Long-Acting Beta-Agonists in Older Adults with Persistent Asthma: A Comparison of Add-On Therapies.",
+     "journal": "J Am Geriatr Soc",
+     "date": "2016 Aug",
+     "authors": "\n\t\tAltawalbeh SM\n\t\tThorpe CT\n\t\tZgibor JC\n\t\tKane-Gill S\n\t\tKang Y\n\t\tThorpe JM\n\t",
+     "doi": "10.1111/jgs.14235"
+    },
+    {
+     "pmid": "23525835",
+     "title": "Assessing the comparative-effectiveness of antidepressants commonly prescribed for depression in the US Medicare population.",
+     "journal": "J Ment Health Policy Econ",
+     "date": "2012 Dec",
+     "authors": "\n\t\tKaplan C\n\t\tZhang Y\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "21621889",
+     "title": "Geographic variation in cardioprotective antihypertensive medication usage in dialysis patients.",
+     "journal": "Am J Kidney Dis",
+     "date": "2011 Jul",
+     "authors": "\n\t\tWetmore JB\n\t\tMahnken JD\n\t\tMukhopadhyay P\n\t\tHou Q\n\t\tEllerbeck EF\n\t\tRigler SK\n\t\tSpertus JA\n\t\tShireman TI\n\t",
+     "doi": "10.1053/j.ajkd.2011.02.387"
+    },
+    {
+     "pmid": "20167029",
+     "title": "Hypertension prevalence and prescribing trends in older US adults: 1999-2004.",
+     "journal": "J Clin Hypertens (Greenwich)",
+     "date": "2010 Feb 1",
+     "authors": "\n\t\tAslam F\n\t\tHaque A\n\t\tAgostini JV\n\t\tWang Y\n\t\tFoody JM\n\t",
+     "doi": "10.1111/j.1751-7176.2009.00223.x"
+    },
+    {
+     "pmid": "19720933",
+     "title": "Emergency hospital admissions for cardiovascular diseases and ambient levels of carbon monoxide: results for 126 United States urban counties, 1999-2005.",
+     "journal": "Circulation",
+     "date": "2009 Sep 15",
+     "authors": "\n\t\tBell ML\n\t\tPeng RD\n\t\tDominici F\n\t\tSamet JM\n\t",
+     "doi": "10.1161/CIRCULATIONAHA.109.851113"
+    },
+    {
+     "pmid": "11893795",
+     "title": "Compliance among pharmacies in California with a prescription-drug discount program for Medicare beneficiaries.",
+     "journal": "N Engl J Med",
+     "date": "2002 Mar 14",
+     "authors": "\n\t\tLewis JH\n\t\tSchonlau M\n\t\tMu\u00f1oz JA\n\t\tAsch SM\n\t\tRosen MR\n\t\tYang H\n\t\tEscarce JJ\n\t",
+     "doi": "10.1056/NEJMsa122601"
+    },
+    {
+     "pmid": "11563436",
+     "title": "Prevalence and recognition of depressive symptoms among homebound older adults with urinary incontinence.",
+     "journal": "J Geriatr Psychiatry Neurol",
+     "date": "2001 Fall",
+     "authors": "\n\t\tEngberg S\n\t\tSereika S\n\t\tWeber E\n\t\tEngberg R\n\t\tMcDowell BJ\n\t\tReynolds CF\n\t",
+     "doi": "10.1177/089198870101400306"
+    },
+    {
+     "pmid": "8105112",
+     "title": "Temporal patterns of antihypertensive medication use among elderly patients. The Cardiovascular Health Study.",
+     "journal": "JAMA",
+     "date": "1993 Oct 20",
+     "authors": "\n\t\tPsaty BM\n\t\tSavage PJ\n\t\tTell GS\n\t\tPolak JF\n\t\tHirsch CH\n\t\tGardin JM\n\t\tMcDonald RH Jr\n\t",
+     "doi": null
+    }
+   ]
+  },
+  "Q4_scs_pns_cms_file": {
+   "term": "(\"spinal cord stimulation\" OR \"peripheral nerve stimulation\") AND (\"Medicare Provider Utilization\" OR \"Physician and Other Practitioners\")",
+   "count": 6,
+   "records": [
+    {
+     "pmid": "39396358",
+     "title": "Peripheral Nerve Stimulation for Pain Management: A Survey of Clinical Practice Patterns.",
+     "journal": "Neuromodulation",
+     "date": "2025 Feb",
+     "authors": "\n\t\tKarri J\n\t\tSivanesan E\n\t\tGulati A\n\t\tSingh V\n\t\tSheen S\n\t\tYalamuru B\n\t\tWang EJ\n\t\tJaved S\n\t\tChung M\n\t\tSohini R\n\t\tHussain N\n\t\tD'Souza RS\n\t",
+     "doi": "10.1016/j.neurom.2024.08.011"
+    },
+    {
+     "pmid": "37842402",
+     "title": "Spinal Cord Stimulation and Related Health Information on Social Media: An Analysis of Instagram Posts.",
+     "journal": "Cureus",
+     "date": "2023 Sep",
+     "authors": "\n\t\tAydin SO\n\t\tTasargol O\n\t",
+     "doi": "10.7759/cureus.45129"
+    },
+    {
+     "pmid": "36381501",
+     "title": "A Survey on the Choice of Spinal Cord Stimulation Parameters and Implantable Pulse Generators and on Reasons for Explantation.",
+     "journal": "Orthop Rev (Pavia)",
+     "date": "2022",
+     "authors": "\n\t\tGill JS\n\t\tKohan LR\n\t\tHasoon J\n\t\tUrits I\n\t\tViswanath O\n\t\tCai VL\n\t\tYazdi C\n\t\tAner MM\n\t\tKaye AD\n\t\tSimopoulos TT\n\t",
+     "doi": "10.52965/001c.39648"
+    },
+    {
+     "pmid": "36288580",
+     "title": "Current Understanding of Phantom Pain and its Treatment.",
+     "journal": "Pain Physician",
+     "date": "2022 Oct",
+     "authors": "\n\t\tCulp CJ\n\t\tAbdi S\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "35562262",
+     "title": "Dutch Consensus Paper: A Consensus View on\u00a0the Place of Neurostimulation Within the Treatment Arsenal of Five Reimbursed Indications for Neurostimulation in The\u00a0Netherlands.",
+     "journal": "Neuromodulation",
+     "date": "2022 Oct",
+     "authors": "\n\t\tEdelbroek CTM\n\t\tKallewaard JW\n\t\tD'eer I\n\t\tKurt E\n\t\tNijhuis HJA\n\t\tTerwiel CTM\n\t\tvan de Voort TWG\n\t\tde Vries-Fennis GM\n\t\tTiemensma J\n\t\tHuygen F\n\t",
+     "doi": "10.1016/j.neurom.2022.02.232"
+    },
+    {
+     "pmid": "26218955",
+     "title": "The Use of Spinal Cord Neuromodulation in the Management of HIV-Related Polyneuropathy.",
+     "journal": "Pain Physician",
+     "date": "2015 Jul-Aug",
+     "authors": "\n\t\tKnezevic NN\n\t\tCandido KD\n\t\tRana S\n\t\tKnezevic I\n\t",
+     "doi": null
+    }
+   ]
+  },
+  "Q5_gini_lorenz": {
+   "term": "(Gini OR Lorenz OR concentration) AND (Medicare) AND (pain OR neuromodulation)",
+   "count": 45,
+   "records": [
+    {
+     "pmid": "42412429",
+     "title": "Short-Term and Long-Term Opioid Prescribing by Specialty, 2010 to 2024.",
+     "journal": "JAMA Netw Open",
+     "date": "2026 Jul 1",
+     "authors": "\n\t\tBuonora MJ\n\t\tHeckmann R\n\t\tStarrels JL\n\t\tAhadpour M\n\t\tHevesi SA\n\t\tRoss JS\n\t\tJeffery MM\n\t",
+     "doi": "10.1001/jamanetworkopen.2026.22016"
+    },
+    {
+     "pmid": "42050826",
+     "title": "Characteristics Associated With Community Violence Prevention Programs in US Hospitals: A Cross-Sectional Survey Analysis.",
+     "journal": "Acad Emerg Med",
+     "date": "2026 Apr",
+     "authors": "\n\t\tAshok VA\n\t\tYun K\n\t\tKlebanoff MJ\n\t\tKaufman E\n\t\tAysola J\n\t\tRichmond TS\n\t",
+     "doi": "10.1111/acem.70300"
+    },
+    {
+     "pmid": "42009623",
+     "title": "Integrating Chiropractic Care into Federally Qualified Health Centers: Policy, Payment, and Pathways for Sustainable Spine and Musculoskeletal Care.",
+     "journal": "J Integr Complement Med",
+     "date": "2026 Apr 20",
+     "authors": "\n\t\tBenjamin L\n\t\tBattaglia P\n\t\tYoung M\n\t\tBensel V\n\t",
+     "doi": "10.1177/27683605261444627"
+    },
+    {
+     "pmid": "41628203",
+     "title": "Updated Analysis of Declining Utilization Rate of 13% Epidural Procedures for Chronic Spinal Pain Management in the Traditional Medicare Population from 2019 to 2024.",
+     "journal": "Pain Physician",
+     "date": "2026 Jan",
+     "authors": "\n\t\tManchikanti L\n\t\tSanapati M\n\t\tPampati V\n\t\tKaye AD\n\t\tKnezevic NN\n\t\tNavani A\n\t\tNampiaparampil D\n\t\tHirsch JA\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "41472640",
+     "title": "Pain Management Among Veterans on Hemodialysis Before and After Implementation of the Veteran Health Administration's Opioid Safety Initiative.",
+     "journal": "J Palliat Med",
+     "date": "2026 Mar",
+     "authors": "\n\t\tWachterman MW\n\t\tO'Hare A\n\t\tChan J\n\t\tWang V\n\t\tJiang L\n\t\tBohnert A\n\t\tLorenz K\n\t\tFriedman H\n\t\tGurewich D\n\t\tHebert P\n\t",
+     "doi": "10.1177/10966218251405298"
+    },
+    {
+     "pmid": "41000489",
+     "title": "Cervical disc arthroplasty in Australia: An epidemiological study.",
+     "journal": "J Craniovertebr Junction Spine",
+     "date": "2025 Jul-Sep",
+     "authors": "\n\t\tDowsett M\n\t\tGeorge AR\n\t\tDragan Z\n\t\tKnee CJ\n\t\tSivakumar BS\n\t\tCampbell RJ\n\t\tSymes M\n\t",
+     "doi": "10.4103/jcvjs.jcvjs_138_25"
+    },
+    {
+     "pmid": "40503817",
+     "title": "Comparing Potential Contributors of Health-Related Quality of Life and Mortality Among US Older Adults.",
+     "journal": "Med Decis Making",
+     "date": "2025 Aug",
+     "authors": "\n\t\tJia H\n\t\tLubetkin EI\n\t",
+     "doi": "10.1177/0272989X251340709"
+    },
+    {
+     "pmid": "40464592",
+     "title": "Real-world Data on Risk Factors for Emergency Department Visits to Treat Outpatient Chemotherapy-Associated Toxicities.",
+     "journal": "Cancer Res Commun",
+     "date": "2025 Jun 1",
+     "authors": "\n\t\tKarovic S\n\t\tDvergsten E\n\t\tPierattini C\n\t\tBarac A\n\t\tFay L\n\t\tCannon TL\n\t\tHarnden KK\n\t\tAragon-Ching JB\n\t\tCuevo RS\n\t\tMaitland ML\n\t\tDeeken JF\n\t",
+     "doi": "10.1158/2767-9764.CRC-24-0631"
+    },
+    {
+     "pmid": "40214987",
+     "title": "Health Care Utilization Patterns Among Adults With or Without Functional Disabilities.",
+     "journal": "JAMA Netw Open",
+     "date": "2025 Apr 1",
+     "authors": "\n\t\tPark S\n\t\tStimpson JP\n\t\tFendrick AM\n\t",
+     "doi": "10.1001/jamanetworkopen.2025.4729"
+    },
+    {
+     "pmid": "39483838",
+     "title": "Lumbar intervertebral disc replacement in Australia: An epidemiological study.",
+     "journal": "J Craniovertebr Junction Spine",
+     "date": "2024 Jul-Sep",
+     "authors": "\n\t\tDragan Z\n\t\tGeorge AR\n\t\tCampbell RJ\n\t\tGray R\n\t\tSivakumar BS\n\t\tSymes M\n\t",
+     "doi": "10.4103/jcvjs.jcvjs_119_24"
+    },
+    {
+     "pmid": "38905446",
+     "title": "A Small Number of Surgeons Perform the Large Majority of Uncommon Nerve Decompression Procedures.",
+     "journal": "Clin Orthop Relat Res",
+     "date": "2024 Dec 1",
+     "authors": "\n\t\tBrinkman N\n\t\tRamtin S\n\t\tRing D\n\t\tAdams JE\n\t",
+     "doi": "10.1097/CORR.0000000000003162"
+    },
+    {
+     "pmid": "38544314",
+     "title": "Hospice providers serving assisted living residents: Association of higher volume with lower quality.",
+     "journal": "J Am Geriatr Soc",
+     "date": "2024 Aug",
+     "authors": "\n\t\tGuo W\n\t\tTemkin-Greener H\n\t\tMcGarry BE\n\t",
+     "doi": "10.1111/jgs.18883"
+    },
+    {
+     "pmid": "38467348",
+     "title": "US Medicare Hospice and Palliative Medicine Physician Workforce and Service Delivery in 2008-2020.",
+     "journal": "J Pain Symptom Manage",
+     "date": "2024 Jun",
+     "authors": "\n\t\tHu X\n\t\tJiang C\n\t\tFan Q\n\t\tShi KS\n\t\tParikh RB\n\t\tKamal AH\n\t\tAnderson RT\n\t\tYabroff KR\n\t\tHan X\n\t",
+     "doi": "10.1016/j.jpainsymman.2024.03.006"
+    },
+    {
+     "pmid": "36651537",
+     "title": "Wildfire smoke exposure and emergency department visits for headache: A case-crossover analysis in California, 2006-2020.",
+     "journal": "Headache",
+     "date": "2023 Jan",
+     "authors": "\n\t\tElser H\n\t\tRowland ST\n\t\tMarek MS\n\t\tKiang MV\n\t\tShea B\n\t\tDo V\n\t\tBenmarhnia T\n\t\tSchneider ALC\n\t\tCasey JA\n\t",
+     "doi": "10.1111/head.14442"
+    },
+    {
+     "pmid": "36518357",
+     "title": "More Drug Monitoring and Less CT Scans of the Brain: Gabapentin Overdose in Two Peritoneal Dialysis Patients.",
+     "journal": "Case Rep Nephrol Dial",
+     "date": "2022 Sep-Dec",
+     "authors": "\n\t\tLehmann K\n\t\tDiab S\n\t\tMeyer TM\n\t\tKielstein JT\n\t\tEden G\n\t",
+     "doi": "10.1159/000525922"
+    },
+    {
+     "pmid": "35864501",
+     "title": "Relationship of caffeine regimen with osteopenia of prematurity in preterm neonates: a cohort retrospective study.",
+     "journal": "BMC Pediatr",
+     "date": "2022 Jul 21",
+     "authors": "\n\t\tKumar M\n\t\tAli A\n\t\tKhan MA\n\t\tSohail S\n\t\tSaleem SM\n\t\tKhan M\n\t\tNaz F\n\t\tKhan WA\n\t\tSalat MS\n\t\tHussain K\n\t\tAmbreen G\n\t",
+     "doi": "10.1186/s12887-022-03493-x"
+    },
+    {
+     "pmid": "35762079",
+     "title": "Comparative effects of fentanyl versus morphine on platelet inhibition induced by ticagrelor in patients with ST-segment elevation myocardial infarction: Full results of the PERSEUS randomized trial.",
+     "journal": "Cardiol J",
+     "date": "2022",
+     "authors": "\n\t\tIglesias JF\n\t\tValgimigli M\n\t\tCarbone F\n\t\tLauriers N\n\t\tMasci PG\n\t\tDegrauwe S\n\t",
+     "doi": "10.5603/CJ.a2022.0049"
+    },
+    {
+     "pmid": "35181415",
+     "title": "Mechanical Ventilation and Survival in Patients With Advanced Dementia in Medicare Advantage.",
+     "journal": "J Pain Symptom Manage",
+     "date": "2022 Jun",
+     "authors": "\n\t\tSullivan DR\n\t\tGozalo P\n\t\tBunker J\n\t\tTeno JM\n\t",
+     "doi": "10.1016/j.jpainsymman.2022.02.011"
+    },
+    {
+     "pmid": "35132560",
+     "title": "Factors to Consider During Identification and Invitation of Individuals in a Multi-stakeholder Research Partnership.",
+     "journal": "J Gen Intern Med",
+     "date": "2022 Dec",
+     "authors": "\n\t\tParker R\n\t\tTomlinson E\n\t\tConcannon TW\n\t\tAkl E\n\t\tPetkovic J\n\t\tWelch VA\n\t\tCrowe S\n\t\tPalm M\n\t\tMarusic A\n\t\tEkanem C\n\t\tAkl IB\n\t\tSaginur M\n\t\tMoja L\n\t\tKuchenm\u00fcller T\n\t\tSlingers N\n\t\tTeixeira L\n\t\tDormer L\n\t",
+     "doi": "10.1007/s11606-022-07411-w"
+    },
+    {
+     "pmid": "34392617",
+     "title": "Comprehensive analysis of trends in Medicare utilization and reimbursement in Physical Medicine & Rehabilitation: 2012 to 2017.",
+     "journal": "PM R",
+     "date": "2022 Oct",
+     "authors": "\n\t\tHan A\n\t\tCarayannopoulos AG\n\t",
+     "doi": "10.1002/pmrj.12692"
+    },
+    {
+     "pmid": "34389688",
+     "title": "Electronic nicotine delivery systems: the need for continued regulatory innovation.",
+     "journal": "Tob Control",
+     "date": "2023 May",
+     "authors": "\n\t\tMiller BJ\n\t\tMeshnick AB\n\t\tLushniak BD\n\t",
+     "doi": "10.1136/tobaccocontrol-2021-056622"
+    },
+    {
+     "pmid": "34182907",
+     "title": "A Review on Pharmacokinetic and Pharmacodynamic Drug Interactions of Adrenergic \u03b2-blockers with Clinically Relevant Drugs-An Overview.",
+     "journal": "Curr Drug Metab",
+     "date": "2021",
+     "authors": "\n\t\tMaideen NMP\n\t\tRajkapoor B\n\t\tMuthusamy S\n\t\tRamanathan S\n\t\tThangadurai SA\n\t\tSughir AA\n\t",
+     "doi": "10.2174/1389200222666210614112529"
+    },
+    {
+     "pmid": "33616932",
+     "title": "Hospital-physician integration and Medicare's site-based outpatient payments.",
+     "journal": "Health Serv Res",
+     "date": "2021 Feb",
+     "authors": "\n\t\tPost B\n\t\tNorton EC\n\t\tHollenbeck B\n\t\tBuchmueller T\n\t\tRyan AM\n\t",
+     "doi": "10.1111/1475-6773.13613"
+    },
+    {
+     "pmid": "33587356",
+     "title": "Relatively mild symptoms after chronic overdose with a double-dose encorafenib: a case report.",
+     "journal": "Anticancer Drugs",
+     "date": "2021 Jun 1",
+     "authors": "\n\t\tMian P\n\t\tMeussen E\n\t\tPiersma D\n\t\tLankheet NAG\n\t",
+     "doi": "10.1097/CAD.0000000000001052"
+    },
+    {
+     "pmid": "32782903",
+     "title": "Health Care Utilization and Costs in the Year Prior to Arthroscopic Rotator Cuff Repair.",
+     "journal": "Orthop J Sports Med",
+     "date": "2020 Jul",
+     "authors": "\n\t\tMalik AT\n\t\tSridharan M\n\t\tBishop JY\n\t\tKhan SN\n\t\tJones GL\n\t\tNeviaser AS\n\t\tCvetanovich GL\n\t",
+     "doi": "10.1177/2325967120937016"
+    },
+    {
+     "pmid": "32368834",
+     "title": "Exploratory descriptive analysis of opioid prescribing prevalence of nurse practitioners and the specialties associated with the top prescribers.",
+     "journal": "Int J Nurs Pract",
+     "date": "2020 Dec",
+     "authors": "\n\t\tPan K\n\t\tCollins A\n\t",
+     "doi": "10.1111/ijn.12850"
+    },
+    {
+     "pmid": "31905067",
+     "title": "Trends In Opioid Prescribing And Self-Reported Pain Among US Adults.",
+     "journal": "Health Aff (Millwood)",
+     "date": "2020 Jan",
+     "authors": "\n\t\tOlfson M\n\t\tWang S\n\t\tWall MM\n\t\tBlanco C\n\t",
+     "doi": "10.1377/hlthaff.2019.00783"
+    },
+    {
+     "pmid": "31372990",
+     "title": "Prescription drug monitoring programs: Assessing the association between \"best practices\" and opioid use in Medicare.",
+     "journal": "Health Serv Res",
+     "date": "2019 Oct",
+     "authors": "\n\t\tMoyo P\n\t\tSimoni-Wastila L\n\t\tGriffin BA\n\t\tHarrington D\n\t\tAlexander GC\n\t\tPalumbo F\n\t\tOnukwugha E\n\t",
+     "doi": "10.1111/1475-6773.13197"
+    },
+    {
+     "pmid": "30688044",
+     "title": "Association of Geography and Access to Health Care Providers With Long-Term Prescription Opioid Use in\u00a0Medicare Patients With Severe Osteoarthritis: A\u00a0Cohort\u00a0Study.",
+     "journal": "Arthritis Rheumatol",
+     "date": "2019 May",
+     "authors": "\n\t\tDesai RJ\n\t\tJin Y\n\t\tFranklin PD\n\t\tLee YC\n\t\tBateman BT\n\t\tLii J\n\t\tSolomon DH\n\t\tKatz JN\n\t\tKim SC\n\t",
+     "doi": "10.1002/art.40834"
+    },
+    {
+     "pmid": "30099349",
+     "title": "Lack of a substantive effect of insurance and the national US payment system on the relative distribution of surgical cases among hospitals in the State of Iowa: A retrospective, observational, cohort study.",
+     "journal": "J Clin Anesth",
+     "date": "2018 Dec",
+     "authors": "\n\t\tDexter F\n\t\tJarvie C\n\t\tEpstein RH\n\t",
+     "doi": "10.1016/j.jclinane.2018.08.006"
+    },
+    {
+     "pmid": "29417134",
+     "title": "Opioid Prescribing Patterns and Complications in the Dermatology Medicare Population.",
+     "journal": "JAMA Dermatol",
+     "date": "2018 Mar 1",
+     "authors": "\n\t\tCao S\n\t\tKarmouta R\n\t\tLi DG\n\t\tDin RS\n\t\tMostaghimi A\n\t",
+     "doi": "10.1001/jamadermatol.2017.5835"
+    },
+    {
+     "pmid": "26799124",
+     "title": "The introduction of generic risperidone in Medicare Part D.",
+     "journal": "Am J Manag Care",
+     "date": "2016 Jan",
+     "authors": "\n\t\tFung V\n\t\tPrice M\n\t\tBusch AB\n\t\tLandrum MB\n\t\tFireman B\n\t\tNierenberg AA\n\t\tNewhouse JP\n\t\tHsu J\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "26654945",
+     "title": "Are Hospice Admission Practices Associated With Hospice Enrollment for Older African Americans and Whites?",
+     "journal": "J Pain Symptom Manage",
+     "date": "2016 Apr",
+     "authors": "\n\t\tJohnson KS\n\t\tPayne R\n\t\tKuchibhatla MN\n\t\tTulsky JA\n\t",
+     "doi": "10.1016/j.jpainsymman.2015.11.010"
+    },
+    {
+     "pmid": "26297302",
+     "title": "Synergistic antinociceptive interaction between palmitoylethanolamide and tramadol in the mouse formalin test.",
+     "journal": "Eur J Pharmacol",
+     "date": "2015 Oct 15",
+     "authors": "\n\t\tD\u00e9ciga-Campos M\n\t\tRam\u00edrez-Mar\u00edn PM\n\t\tL\u00f3pez-Mu\u00f1oz FJ\n\t",
+     "doi": "10.1016/j.ejphar.2015.08.025"
+    },
+    {
+     "pmid": "26192028",
+     "title": "No significant association between anesthesia group concentration and private insurer payments in the United States.",
+     "journal": "Anesthesiology",
+     "date": "2015 Sep",
+     "authors": "\n\t\tSun EC\n\t\tDexter F\n\t\tMacario A\n\t\tMiller TR\n\t\tBaker LC\n\t",
+     "doi": "10.1097/ALN.0000000000000779"
+    },
+    {
+     "pmid": "25925382",
+     "title": "Updates in the perioperative and emergency management of non-vitamin K antagonist oral anticoagulants.",
+     "journal": "Crit Care",
+     "date": "2015 Apr 29",
+     "authors": "\n\t\tFaraoni D\n\t\tLevy JH\n\t\tAlbaladejo P\n\t\tSamama CM\n\t\tGroupe d\u2019Int\u00e9r\u00eat en H\u00e9mostase P\u00e9riop\u00e9ratoire\n\t",
+     "doi": "10.1186/s13054-015-0930-9"
+    },
+    {
+     "pmid": "25250852",
+     "title": "Longevity and cost of implantable intrathecal drug delivery systems for chronic pain management: a retrospective analysis of 365 patients.",
+     "journal": "Neuromodulation",
+     "date": "2015 Feb",
+     "authors": "\n\t\tBolash R\n\t\tUdeh B\n\t\tSaweris Y\n\t\tGuirguis M\n\t\tDalton JE\n\t\tMakarova N\n\t\tMekhail N\n\t",
+     "doi": "10.1111/ner.12235"
+    },
+    {
+     "pmid": "22971204",
+     "title": "Long-term Medicaid excess payments from alleged price manipulation of generic lorazepam.",
+     "journal": "J Manag Care Pharm",
+     "date": "2012 Sep",
+     "authors": "\n\t\tBian B\n\t\tGorevski E\n\t\tKelton CM\n\t\tGuo JJ\n\t\tMartin Boone JE\n\t",
+     "doi": "10.18553/jmcp.2012.18.7.506"
+    },
+    {
+     "pmid": "22587854",
+     "title": "Racial differences in gait velocity in an urban elderly cohort.",
+     "journal": "J Am Geriatr Soc",
+     "date": "2012 May",
+     "authors": "\n\t\tBlanco I\n\t\tVerghese J\n\t\tLipton RB\n\t\tPutterman C\n\t\tDerby CA\n\t",
+     "doi": "10.1111/j.1532-5415.2012.03927.x"
+    },
+    {
+     "pmid": "21846733",
+     "title": "Methods for improving efficiency in quality measurement: the example of pain screening.",
+     "journal": "Int J Qual Health Care",
+     "date": "2011 Dec",
+     "authors": "\n\t\tBentley TG\n\t\tMalin J\n\t\tLongino S\n\t\tAsch S\n\t\tDy S\n\t\tLorenz KA\n\t",
+     "doi": "10.1093/intqhc/mzr054"
+    }
+   ]
+  },
+  "Q6_ivpain_disparities": {
+   "term": "\"interventional pain\" AND (disparities OR \"access\") AND (rural OR income)",
+   "count": 11,
+   "records": [
+    {
+     "pmid": "42443855",
+     "title": "Barriers to interventional pain management in patients with cancer: a systematic review.",
+     "journal": "BMC Palliat Care",
+     "date": "2026 Jul 14",
+     "authors": "\n\t\tAlzahrani ES\n\t\tAbduldaiem AO\n\t\tAlardan AI\n\t\tAlshowigi NA\n\t",
+     "doi": "10.1186/s12904-026-02235-5"
+    },
+    {
+     "pmid": "42093116",
+     "title": "Gender Disparities in Interventional Pain Medicine: Representation, Leadership, and Compensation.",
+     "journal": "Pain Pract",
+     "date": "2026 Jun",
+     "authors": "\n\t\tCatalanotto M\n\t\tKim SJ\n\t\tJaved S\n\t",
+     "doi": "10.1111/papr.70160"
+    },
+    {
+     "pmid": "40292179",
+     "title": "Physician compensation rates and gender disparities in interventional spine and pain practices: Insights from a Spine Intervention society survey study.",
+     "journal": "Interv Pain Med",
+     "date": "2025 Jun",
+     "authors": "\n\t\tChen AS\n\t\tDroessler JT\n\t\tLeet J\n\t\tSchneider B\n\t\tTeramoto M\n\t\tAbdullah NM\n\t\tFogarty AE\n\t\tMcCormick ZL\n\t",
+     "doi": "10.1016/j.inpm.2025.100583"
+    },
+    {
+     "pmid": "35751799",
+     "title": "Challenges in Utilizing Telehealth for Chronic Pain.",
+     "journal": "Curr Pain Headache Rep",
+     "date": "2022 Aug",
+     "authors": "\n\t\tVorenkamp KE\n\t\tKochat S\n\t\tBreckner F\n\t\tDimon C\n\t",
+     "doi": "10.1007/s11916-022-01067-1"
+    },
+    {
+     "pmid": "34415914",
+     "title": "Global surgery, obstetric, and anaesthesia indicator definitions and reporting: An Utstein consensus report.",
+     "journal": "PLoS Med",
+     "date": "2021 Aug",
+     "authors": "\n\t\tDavies JI\n\t\tGelb AW\n\t\tGore-Booth J\n\t\tMartin J\n\t\tMellin-Olsen J\n\t\t\u00c5kerman C\n\t\tAmeh EA\n\t\tBiccard BM\n\t\tBraut GS\n\t\tChu KM\n\t\tDerbew M\n\t\tErsdal HL\n\t\tGuzman JM\n\t\tHagander L\n\t\tHaylock-Loor C\n\t\tHolmer H\n\t\tJ",
+     "doi": "10.1371/journal.pmed.1003749"
+    },
+    {
+     "pmid": "33735423",
+     "title": "Opioid epidemics during the pandemic: Further insights to the same story.",
+     "journal": "J Opioid Manag",
+     "date": "2021 Jan-Feb",
+     "authors": "\n\t\tAyad AE\n\t",
+     "doi": "10.5055/jom.2021.0609"
+    },
+    {
+     "pmid": "31151339",
+     "title": "Observational Study of the Distribution and Diversity of Interventional Pain Procedures Among Hospitals in the State of Iowa.",
+     "journal": "Pain Physician",
+     "date": "2019 May",
+     "authors": "\n\t\tPearson ACS\n\t\tDexter F\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "31077934",
+     "title": "US critical access hospitals' listings of pain medicine physicians and other clinicians performing interventional pain procedures.",
+     "journal": "J Clin Anesth",
+     "date": "2019 Dec",
+     "authors": "\n\t\tElhakim M\n\t\tDexter F\n\t\tPearson ACS\n\t",
+     "doi": "10.1016/j.jclinane.2019.05.005"
+    },
+    {
+     "pmid": "22996859",
+     "title": "CMS proposal for interventional pain management by nurse anesthetists: evidence by proclamation with poor prognosis.",
+     "journal": "Pain Physician",
+     "date": "2012 Sep-Oct",
+     "authors": "\n\t\tManchikanti L\n\t\tCaraway DL\n\t\tFalco FJ\n\t\tBenyamin RM\n\t\tHansen H\n\t\tHirsch JA\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "18523500",
+     "title": "Review of occupational medicine practice guidelines for interventional pain management and potential implications.",
+     "journal": "Pain Physician",
+     "date": "2008 May-Jun",
+     "authors": "\n\t\tManchikanti L\n\t\tSingh V\n\t\tDerby R\n\t\tHelm S 2nd\n\t\tTrescot AM\n\t\tStaats PS\n\t\tPrager JP\n\t\tHirsch JA\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "16902657",
+     "title": "National All Schedules Prescription Electronic Reporting Act (NASPER): balancing substance abuse and medical necessity.",
+     "journal": "Pain Physician",
+     "date": "2002 Jul",
+     "authors": "\n\t\tManchikanti L\n\t\tBrown KR\n\t\tSingh V\n\t",
+     "doi": null
+    }
+   ]
+  },
+  "Q7_pns_provider_concentration": {
+   "term": "\"peripheral nerve stimulation\" AND (provider OR physician) AND (concentration OR volume OR supply OR density)",
+   "count": 137,
+   "records": [
+    {
+     "pmid": "42577123",
+     "title": "Neuromodulation therapies for diabetic neuropathy: mechanisms, efficacy, and impacts on nerve health: a narrative review.",
+     "journal": "Front Neurol",
+     "date": "2026",
+     "authors": "\n\t\tLarson EM\n\t\tDalm BD\n\t\tTownsend KL\n\t",
+     "doi": "10.3389/fneur.2026.1892683"
+    },
+    {
+     "pmid": "42539111",
+     "title": "Decoding Overlapping Lower-Limb Afferent Pathways from Human Epidural Spinal Recordings.",
+     "journal": "Res Sq",
+     "date": "2026 Jul 22",
+     "authors": "\n\t\tSteele AG\n\t\tCandela MO\n\t\tHufft GJ\n\t\tHowes-Keith A\n\t\tMartin C\n\t\tOh J\n\t\tFaraji AH\n\t\tSayenko DG\n\t",
+     "doi": "10.21203/rs.3.rs-10348238/v1"
+    },
+    {
+     "pmid": "42282826",
+     "title": "Selective Activation of Nerve Fiber Subpopulations with Intrafascicular Stimulation.",
+     "journal": "bioRxiv",
+     "date": "2026 Jun 1",
+     "authors": "\n\t\tSanabria AO\n\t\tRegnacq L\n\t\tThota AK\n\t\tHolmes A\n\t\tAsbee JM\n\t\tRenauld S\n\t\tKlobl F\n\t\tBornat Y\n\t\tRobinson S\n\t\tMcPherson LM\n\t\tAbbas JJ\n\t\tJung R\n\t",
+     "doi": "10.64898/2026.05.27.727943"
+    },
+    {
+     "pmid": "42246085",
+     "title": "Single-site non-invasive peripheral nerve stimulation with multidimensional encoding enables object differentiation using a myoelectric prosthetic hand.",
+     "journal": "J Neural Eng",
+     "date": "2026 Jun 19",
+     "authors": "\n\t\tBenigni T\n\t\tPena AE\n\t\tShell A\n\t\tAsbee JM\n\t\tKuntaegowdanahalli SS\n\t\tAbbas JJ\n\t\tJung R\n\t",
+     "doi": "10.1088/1741-2552/ae7830"
+    },
+    {
+     "pmid": "41650439",
+     "title": "Transcutaneous Spinal Cord Stimulation Provides Sensations to the Missing Hand of Individuals With Upper Limb Amputation.",
+     "journal": "IEEE Trans Neural Syst Rehabil Eng",
+     "date": "2026",
+     "authors": "\n\t\tKharboush R\n\t\tValdunciel AP\n\t\tBoesendorfer A\n\t\tBaumgartner B\n\t\tAszmann OC\n\t\tPereda JI\n\t\tFarina D\n\t",
+     "doi": "10.1109/TNSRE.2026.3661849"
+    },
+    {
+     "pmid": "41590999",
+     "title": "Optimizing PNS lead placement for chemotherapy-induced peripheral neuropathy: a preliminary clinical study.",
+     "journal": "Pain Manag",
+     "date": "2026 Apr",
+     "authors": "\n\t\tParmar J\n\t\tJaved S\n\t",
+     "doi": "10.1080/17581869.2026.2621652"
+    },
+    {
+     "pmid": "41494208",
+     "title": "Automated 3D segmentation of human vagus nerve fascicles and epineurium from micro-computed tomography images using anatomy-aware neural networks.",
+     "journal": "J Neural Eng",
+     "date": "2026 Jan 20",
+     "authors": "\n\t\tZhang J\n\t\tLapierre-Landry M\n\t\tKalpatthi H\n\t\tJenkins MW\n\t\tWilson DL\n\t\tPelot NA\n\t\tShoffstall AJ\n\t",
+     "doi": "10.1088/1741-2552/ae33f6"
+    },
+    {
+     "pmid": "41481874",
+     "title": "Impact of Lead-shielding on the Utilization of Magnetic Resonance Imaging Among Patients with Spinal Cord Stimulation Systems: A Study of Retrospective Claims in the US.",
+     "journal": "Pain Physician",
+     "date": "2025 Dec",
+     "authors": "\n\t\tSafriel Y\n\t\tAzeem N\n\t\tSheth S\n\t\tMoucharite M\n\t\tGasquet N\n\t\tWu C\n\t\tRicker C\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "41462277",
+     "title": "Temporal interference stimulation of peripheral nerves induces functionally diverse limb movements revealed by automated pose estimation and unsupervised behavioral analysis.",
+     "journal": "J Neuroeng Rehabil",
+     "date": "2025 Dec 29",
+     "authors": "\n\t\tOlorocisimo JP\n\t\tNag S\n\t\tZhang H\n\t\tYang S\n\t\tPrytula M\n\t\tLiu S\n\t\tKanchwala M\n\t\tSun Y\n\t\tZariffa J\n\t\tGenov R\n\t",
+     "doi": "10.1186/s12984-025-01825-3"
+    },
+    {
+     "pmid": "41397667",
+     "title": "Ultrasound-guided peripheral nerve stimulation implantation in the spiral groove. A case report.",
+     "journal": "Rev Esp Anestesiol Reanim (Engl Ed)",
+     "date": "2026 Jan",
+     "authors": "\n\t\tMateos-Granados J\n\t\tFern\u00e1ndez-Rodr\u00edguez LE\n\t\tHern\u00e1ndez-Garc\u00eda MM\n\t\tMart\u00ednez-Mart\u00ednez F\n\t\tRoqu\u00e9s-Escolar V\n\t",
+     "doi": "10.1016/j.redare.2025.501982"
+    },
+    {
+     "pmid": "41336796",
+     "title": "Magnetoelectric core-shell nanorods for peripheral nerve stimulation: a computational study.",
+     "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+     "date": "2025 Jul",
+     "authors": "\n\t\tGalletta V\n\t\tBonato M\n\t\tParazzini M\n\t\tChiaramello E\n\t\tFiocchi S\n\t",
+     "doi": "10.1109/EMBC58623.2025.11251559"
+    },
+    {
+     "pmid": "41224428",
+     "title": "Extending the Duration of Your Peripheral Nerve Block: From Perineural Additives and Continuous Catheters, to Liposomal Preparations and Beyond.",
+     "journal": "Adv Anesth",
+     "date": "2025 Dec",
+     "authors": "\n\t\tAldwinckle RJ\n\t\tSaldanha U\n\t\tPenta DL\n\t\tMacres S\n\t\tJung M\n\t\tBishop R\n\t",
+     "doi": "10.1016/j.aan.2025.07.003"
+    },
+    {
+     "pmid": "41102859",
+     "title": "In Silico analysis of concentration and spatial distribution effects of magnetoelectric nanoparticles on peripheral nerve activation.",
+     "journal": "Bioelectron Med",
+     "date": "2025 Oct 17",
+     "authors": "\n\t\tGalletta V\n\t\tBonato M\n\t\tParazzini M\n\t\tChiaramello E\n\t\tFiocchi S\n\t",
+     "doi": "10.1186/s42234-025-00187-4"
+    },
+    {
+     "pmid": "41078149",
+     "title": "A Nonlinear Single Channel Gradient Insert for Prostate Diffusion Imaging.",
+     "journal": "Magn Reson Med",
+     "date": "2026 Mar",
+     "authors": "\n\t\tElsaid NMH\n\t\tZhang HZ\n\t\tFettahoglu A\n\t\tSun C\n\t\tDe Simone A\n\t\tNixon T\n\t\tDewdney A\n\t\tPeters DC\n\t\tWeinreb J\n\t\tConstable T\n\t\tGaliana G\n\t",
+     "doi": "10.1002/mrm.70125"
+    },
+    {
+     "pmid": "41003458",
+     "title": "Technical and Clinical Overview: Spinal Cord Stimulation.",
+     "journal": "Neuromodulation",
+     "date": "2026 Jan",
+     "authors": "\n\t\tFalowski S\n\t\tAli R\n\t\tSweet J\n\t\tMackel C\n\t\tKesarwani R\n\t\tArle J\n\t\tLarkin MB\n\t\tPinckard-Dover HN\n\t\tStone L\n\t\tNerison C\n\t\tBen Haim S\n\t\tRosenow J\n\t\tViswanathan A\n\t\tPetersen E\n\t\tLad N\n\t\tSchwalb J\n\t\tRasl",
+     "doi": "10.1016/j.neurom.2025.07.012"
+    },
+    {
+     "pmid": "40900457",
+     "title": "Peripheral Nerve Stimulation Using High-Frequency Electromagnetic Coupling Technology to Power an Implanted Neurostimulator With a Separate Receiver at the Suprascapular Nerve for the Treatment of Painful Spasticity: A Case Series.",
+     "journal": "Pain Med Case Rep",
+     "date": "2025 Aug",
+     "authors": "\n\t\tLin E\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "40619927",
+     "title": "Ultrasound-guided neuromodulation for neuropathic pain after radial forearm flap reconstruction: a case report.",
+     "journal": "Pain Manag",
+     "date": "2025 Sep",
+     "authors": "\n\t\tCaro\u00e7o T\n\t\tPaiva B\n\t\tRibeiro J\n\t\tTeixeira D\n\t\tRodrigues I\n\t\tHenriques Leandro G\n\t",
+     "doi": "10.1080/17581869.2025.2530379"
+    },
+    {
+     "pmid": "40580942",
+     "title": "Provision of up-to-date magnetic resonance imaging conditionality for current peripheral nerve stimulation and spinal cord stimulation systems in pain management.",
+     "journal": "Pain Med",
+     "date": "2025 Dec 1",
+     "authors": "\n\t\tVu PD\n\t\tSlitzky M\n\t\tMiller K\n\t\tYong RJ\n\t\tRobinson CL\n\t\tChung M\n\t",
+     "doi": "10.1093/pm/pnaf076"
+    },
+    {
+     "pmid": "40472863",
+     "title": "Evaluation of gold helical microwire structure electrode for long-term rodent nerve stimulation.",
+     "journal": "J Neural Eng",
+     "date": "2025 Jun 18",
+     "authors": "\n\t\tLam DV\n\t\tYang K\n\t\tLiu DX\n\t\tLauricella A\n\t\tGao Y\n\t\tFielding ES\n\t\tGolobish K\n\t\tNieuwoudt S\n\t\tWeber DJ\n\t\tFisher LE\n\t\tLempka SF\n\t\tDalrymple AN\n\t\tLudwig KA\n\t\tShoffstall AJ\n\t",
+     "doi": "10.1088/1741-2552/ade18a"
+    },
+    {
+     "pmid": "40410617",
+     "title": "Review of Guidelines for Implantable Peripheral Nerve Stimulation (PNS) in the Management of Chronic Pain.",
+     "journal": "Curr Pain Headache Rep",
+     "date": "2025 May 23",
+     "authors": "\n\t\tManchikanti L\n\t\tAbd-Elsayed A\n\t\tKaye AD\n\t\tSanapati MR\n\t\tKnezevic NN\n\t\tManocha V\n\t\tHirsch JA\n\t",
+     "doi": "10.1007/s11916-025-01397-w"
+    },
+    {
+     "pmid": "40331336",
+     "title": "Engineering clinical translation of OGSE diffusion MRI.",
+     "journal": "Magn Reson Med",
+     "date": "2025 Sep",
+     "authors": "\n\t\tZhu A\n\t\tMichael ES\n\t\tLi H\n\t\tSprenger T\n\t\tHua Y\n\t\tLee SK\n\t\tYeo DTB\n\t\tMcNab JA\n\t\tHennel F\n\t\tFieremans E\n\t\tWu D\n\t\tFoo TKF\n\t\tNovikov DS\n\t",
+     "doi": "10.1002/mrm.30510"
+    },
+    {
+     "pmid": "40269935",
+     "title": "First-in-human implementation of a bidirectional somatosensory neuroprosthetic system with wireless communication.",
+     "journal": "J Neuroeng Rehabil",
+     "date": "2025 Apr 23",
+     "authors": "\n\t\tCady SR\n\t\tLambrecht JM\n\t\tDsouza KT\n\t\tDunning JL\n\t\tAnderson JR\n\t\tMalone KJ\n\t\tChepla KJ\n\t\tGraczyk EL\n\t\tTyler DJ\n\t",
+     "doi": "10.1186/s12984-025-01613-z"
+    },
+    {
+     "pmid": "40207700",
+     "title": "Phosphotungstic Acid Staining to Visualize the Vagus Nerve Perineurium Using Micro-CT.",
+     "journal": "J Neuroimaging",
+     "date": "2025 Mar-Apr",
+     "authors": "\n\t\tUpadhye AR\n\t\tCintron E\n\t\tZhang J\n\t\tColeman J\n\t\tKolluru C\n\t\tJenkins MW\n\t\tWilson D\n\t\tPelot NA\n\t\tShoffstall AJ\n\t",
+     "doi": "10.1111/jon.70040"
+    },
+    {
+     "pmid": "39955665",
+     "title": "Incidence of Lead Tip Fracture and Retention After Percutaneous Lead Implantation for Peripheral Nerve Stimulation With an External Pulse Generator: A Multicenter Comparative Analysis of 456 Lead Implants Across Two Lead Hardware Generations.",
+     "journal": "Neuromodulation",
+     "date": "2025 Jun",
+     "authors": "\n\t\tHoffmann C\n\t\tFautsch KJ\n\t\tD'Souza RS\n\t",
+     "doi": "10.1016/j.neurom.2025.01.009"
+    },
+    {
+     "pmid": "39879650",
+     "title": "Characterization of motor nerve stimulation using sinusoidal low frequency alternating currents and cuff electrodes.",
+     "journal": "J Neural Eng",
+     "date": "2025 Feb 11",
+     "authors": "\n\t\tAlhawwash A\n\t\tHorn MR\n\t\tLazorchak N\n\t\tYoshida K\n\t",
+     "doi": "10.1088/1741-2552/adafdc"
+    },
+    {
+     "pmid": "39757932",
+     "title": "Real-world healthcare utilization and costs of peripheral nerve stimulation with a micro-IPG system.",
+     "journal": "Pain Manag",
+     "date": "2025 Jan",
+     "authors": "\n\t\tKalia H\n\t\tThapa B\n\t\tStaats P\n\t\tMartin P\n\t\tStetter K\n\t\tFeldman B\n\t\tMarci C\n\t",
+     "doi": "10.1080/17581869.2025.2449810"
+    },
+    {
+     "pmid": "39692679",
+     "title": "Peripheral Nerve Stimulation Implantation Combining Ultrasound With Microendoscopy for Management of Chronic Neuropathic Pain: A Case Series Study.",
+     "journal": "Neuromodulation",
+     "date": "2025 Feb",
+     "authors": "\n\t\tBouche B\n\t\tBillot M\n\t\tVoratanouvong A\n\t\tOunajim A\n\t\tMoens M\n\t\tGoudman L\n\t\tEldabe S\n\t\tFontaine D\n\t\tDuraffourg M\n\t\tRoulaud M\n\t\tNivole K\n\t\tMany M\n\t\tBaron S\n\t\tLorgeoux B\n\t\tLampert L\n\t\tDavid R\n\t\tRigoard",
+     "doi": "10.1016/j.neurom.2024.10.013"
+    },
+    {
+     "pmid": "39621994",
+     "title": "Peripheral Nerve Stimulation Using High-Frequency Electromagnetic Coupling Technology to Power an Implanted Neurostimulator with a Separate Receiver at the Superior Cluneal Nerve for Treatment of Chronic Back Pain Due to Neuralgia: A Retrospective Study.",
+     "journal": "Pain Physician",
+     "date": "2024 Nov",
+     "authors": "\n\t\tLindley D\n\t\tAnders A\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "39621990",
+     "title": "Novel Injectable Nerve Stimulation Electrode Placed on the Dorsal Root Ganglion Using an Extravertebral Approach: A Feasibility Study in Cadavers.",
+     "journal": "Pain Physician",
+     "date": "2024 Nov",
+     "authors": "\n\t\tBillet B\n\t\tJessen C\n\t\tMoriggl B\n\t\tLiu D\n\t\tSzabo E\n\t\tNieuwoudt S\n\t\tAbd-Elsayed A\n\t\tSoin A\n\t\tBendtsen TF\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "39572166",
+     "title": "Clinical study of a micro-implantable pulse generator for the treatment of peripheral neuropathic pain: 12-month results from the COMFORT-randomized controlled trial.",
+     "journal": "Reg Anesth Pain Med",
+     "date": "2026 Mar 5",
+     "authors": "\n\t\tHatheway J\n\t\tHersel A\n\t\tEngle M\n\t\tGutierrez G\n\t\tKhemlani V\n\t\tKapural L\n\t\tMoore G\n\t\tAjakwe R\n\t\tTrainor D\n\t\tHah J\n\t\tStaats PS\n\t\tMakous J\n\t\tHeit G\n\t\tKottalgi S\n\t\tDesai MJ\n\t\tCOMFORT Study Group\n\t",
+     "doi": "10.1136/rapm-2024-106099"
+    },
+    {
+     "pmid": "39565237",
+     "title": "Comprehensive Evidence-Based Guidelines for Implantable Peripheral Nerve Stimulation (PNS) in the Management of Chronic Pain: From the American Society Of Interventional Pain Physicians (ASIPP).",
+     "journal": "Pain Physician",
+     "date": "2024 Nov",
+     "authors": "\n\t\tManchikanti L\n\t\tSanapati MR\n\t\tSoin A\n\t\tKaye AD\n\t\tKaye AM\n\t\tSolanki DR\n\t\tChen GH\n\t\tNampiaparampil D\n\t\tKnezevic NN\n\t\tChristo P\n\t\tBautista A\n\t\tKarri J\n\t\tShah S\n\t\tHelm Ii S\n\t\tNavani A\n\t\tWargo BW\n\t\tGhar",
+     "doi": null
+    },
+    {
+     "pmid": "39499594",
+     "title": "Spatiotemporal Dynamics of Periodic and Aperiodic Brain Activity Under Peripheral Nerve Stimulation With Acupuncture.",
+     "journal": "IEEE Trans Neural Syst Rehabil Eng",
+     "date": "2024",
+     "authors": "\n\t\tYu H\n\t\tLi F\n\t\tLiu J\n\t\tLiu C\n\t\tLi G\n\t\tWang J\n\t",
+     "doi": "10.1109/TNSRE.2024.3492014"
+    },
+    {
+     "pmid": "39353120",
+     "title": "Peripheral Nerve Stimulation Using High-frequency Electromagnetic Coupling (HF-EMC) Technology to Power an Implanted Neurostimulator With a Separate Receiver for Treating Peripheral Neuropathy.",
+     "journal": "Pain Physician",
+     "date": "2024 Sep",
+     "authors": "\n\t\tLin E\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "39173210",
+     "title": "Efficacy and safety of TOMAC for treatment of medication-na\u00efve and medication-refractory restless legs syndrome: A randomized clinical trial and meta-analysis.",
+     "journal": "Sleep Med",
+     "date": "2024 Oct",
+     "authors": "\n\t\tSingh H\n\t\tBaker FC\n\t\tOjile J\n\t\tAdlou B\n\t\tKolotovska V\n\t\tRigot SK\n\t\tCharlesworth JD\n\t",
+     "doi": "10.1016/j.sleep.2024.08.017"
+    },
+    {
+     "pmid": "39077428",
+     "title": "Blocking A\u03b4- and C-fiber neural transmission by sub-kilohertz peripheral nerve stimulation.",
+     "journal": "Front Neurosci",
+     "date": "2024",
+     "authors": "\n\t\tZhang S\n\t\tChen L\n\t\tLadez SR\n\t\tSeferge A\n\t\tLiu J\n\t\tFeng B\n\t",
+     "doi": "10.3389/fnins.2024.1404903"
+    },
+    {
+     "pmid": "38885677",
+     "title": "Restoration of coherent reach-grasp-pull movement via sequential intraneural peripheral nerve stimulation in rats.",
+     "journal": "J Neural Eng",
+     "date": "2024 Jul 4",
+     "authors": "\n\t\tChen W\n\t\tWang S\n\t\tBao J\n\t\tYu C\n\t\tJiang Q\n\t\tSong J\n\t\tZheng Y\n\t\tHao Y\n\t\tXu K\n\t",
+     "doi": "10.1088/1741-2552/ad5935"
+    },
+    {
+     "pmid": "38861967",
+     "title": "A distributed, high-channel-count, implanted bidirectional system for restoration of somatosensation and myoelectric control.",
+     "journal": "J Neural Eng",
+     "date": "2024 Jun 21",
+     "authors": "\n\t\tLambrecht JM\n\t\tCady SR\n\t\tPeterson EJ\n\t\tDunning JL\n\t\tDinsmoor DA\n\t\tPape F\n\t\tGraczyk EL\n\t\tTyler DJ\n\t",
+     "doi": "10.1088/1741-2552/ad56c9"
+    },
+    {
+     "pmid": "38821535",
+     "title": "Clinical study of a micro-implantable pulse generator for the treatment of peripheral neuropathic pain: 3-month and 6-month results from the COMFORT-randomised controlled trial.",
+     "journal": "Reg Anesth Pain Med",
+     "date": "2025 Jul 4",
+     "authors": "\n\t\tHatheway J\n\t\tHersel A\n\t\tSong J\n\t\tEngle M\n\t\tGutierrez G\n\t\tKhemlani V\n\t\tKapural L\n\t\tMoore G\n\t\tAjakwe R\n\t\tTrainor D\n\t\tHah J\n\t\tStaats PS\n\t\tLynch P\n\t\tMakous J\n\t\tHeit G\n\t\tKottalgi S\n\t\tDesai MJ\n\t",
+     "doi": "10.1136/rapm-2023-105264"
+    },
+    {
+     "pmid": "38805528",
+     "title": "Peripheral Nerve Stimulation Uses High-Frequency Electromagnetic Technology to Power an Implanted Neurostimulator with a Separate Receiver for the Treatment of Chronic Pain in the Lower Extremities.",
+     "journal": "Pain Physician",
+     "date": "2024 May",
+     "authors": "\n\t\tMcGreevy K\n\t\tMcGreevy K\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "38564925",
+     "title": "Designing next-generation subscalp devices for seizure monitoring: A systematic review and meta-analysis of established extracranial hardware.",
+     "journal": "Epilepsy Res",
+     "date": "2024 May",
+     "authors": "\n\t\tBarlatey SL\n\t\tKouvas G\n\t\tSobolewski A\n\t\tNowacki A\n\t\tPollo C\n\t\tBaud MO\n\t",
+     "doi": "10.1016/j.eplepsyres.2024.107356"
+    }
+   ]
+  },
+  "Q8_pns_medicare_any": {
+   "term": "\"peripheral nerve stimulation\" AND Medicare",
+   "count": 4,
+   "records": [
+    {
+     "pmid": "41481874",
+     "title": "Impact of Lead-shielding on the Utilization of Magnetic Resonance Imaging Among Patients with Spinal Cord Stimulation Systems: A Study of Retrospective Claims in the US.",
+     "journal": "Pain Physician",
+     "date": "2025 Dec",
+     "authors": "\n\t\tSafriel Y\n\t\tAzeem N\n\t\tSheth S\n\t\tMoucharite M\n\t\tGasquet N\n\t\tWu C\n\t\tRicker C\n\t",
+     "doi": null
+    },
+    {
+     "pmid": "39589685",
+     "title": "Cost Savings in Chronic Pain Patients Initiating Peripheral Nerve Stimulation (PNS) with a 60-Day PNS Treatment.",
+     "journal": "Pain Ther",
+     "date": "2025 Feb",
+     "authors": "\n\t\tDickerson DM\n\t\tKalia H\n\t\tVorenkamp KE\n\t\tSlavin KV\n\t\tHagedorn JM\n\t\tGunnarsson C\n\t\tKeuffel EL\n\t\tEpstein AJ\n\t\tStultz M\n\t\tCrosby ND\n\t",
+     "doi": "10.1007/s40122-024-00677-4"
+    },
+    {
+     "pmid": "38980601",
+     "title": "Potential Cost Savings with 60-day Peripheral Nerve Stimulation Treatment in Chronic Axial Low Back Pain.",
+     "journal": "Pain Ther",
+     "date": "2024 Oct",
+     "authors": "\n\t\tSheth SJ\n\t\tMauck WD\n\t\tRusso DP\n\t\tKeuffel EL\n\t\tGunnarsson CL\n\t\tStultz M\n\t\tMcGee MJ\n\t\tHuntoon MA\n\t",
+     "doi": "10.1007/s40122-024-00630-5"
+    },
+    {
+     "pmid": "15502691",
+     "title": "Cost benefit analysis of neurostimulation for chronic pain.",
+     "journal": "Clin J Pain",
+     "date": "2004 Nov-Dec",
+     "authors": "\n\t\tMekhail NA\n\t\tAeschbach A\n\t\tStanton-Hicks M\n\t",
+     "doi": "10.1097/00002508-200411000-00012"
+    }
+   ]
+  }
+ },
+ "fig6": {
+  "queries": {
+   "SCS": "(\"spinal cord stimulation\"[Title/Abstract]) AND (access[Title/Abstract] OR utilization[Title/Abstract] OR disparities[Title/Abstract] OR \"geographic variation\"[Title/Abstract] OR epidemiology[Title/Abstract])",
+   "PNS": "(\"peripheral nerve stimulation\"[Title/Abstract]) AND (access[Title/Abstract] OR utilization[Title/Abstract] OR disparities[Title/Abstract] OR \"geographic variation\"[Title/Abstract] OR epidemiology[Title/Abstract])"
+  },
+  "counts": {
+   "SCS": {
+    "2015": 8,
+    "2016": 10,
+    "2017": 18,
+    "2018": 13,
+    "2019": 9,
+    "2020": 14,
+    "2021": 23,
+    "2022": 17,
+    "2023": 29,
+    "2024": 27
+   },
+   "PNS": {
+    "2015": 2,
+    "2016": 1,
+    "2017": 1,
+    "2018": 2,
+    "2019": 3,
+    "2020": 4,
+    "2021": 6,
+    "2022": 7,
+    "2023": 6,
+    "2024": 12
+   }
+  }
+ }
+}
